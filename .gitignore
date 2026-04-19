@@ -1,0 +1,7 @@
+# 座標取得用の一時スクリプト・ログ
+geocode_hospitals.py
+geocode_log.txt
+download_topo.py
+
+# list.html は統合済みのため不要
+list.html

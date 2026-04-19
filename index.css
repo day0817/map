@@ -1,0 +1,176 @@
+:root {
+    --bg-color: #f8fafc; /* 繝ｩ繧､繝医ユ繝ｼ繝槭・閭梧勹濶ｲ */
+    --text-color: #334155;
+    --border-color: #e2e8f0;
+    
+    /* 繝槭ャ繝励・濶ｲ螳夂ｾｩ */
+    --map-stroke: #cbd5e1;  /* 蟶ょ玄逕ｺ譚代・蠅・阜邱夊牡 */
+    --map-stroke-width: 0.2px;
+    --map-hover-stroke: #475569;
+    
+    /* 謖・ｮ壹′縺ｪ縺・ョ繝輔か繝ｫ繝医・蝨ｰ蝓溘・濶ｲ・郁埋縺・が繝ｬ繝ｳ繧ｸ・・*/
+    --color-light-orange: #ffedd5; /* 繧医ｊ阮・＞繧ｪ繝ｬ繝ｳ繧ｸ (Tailwind縺ｮorange-100逶ｸ蠖・ */
+    
+    /* 謖・ｮ壹＆繧後◆蝨ｰ蝓溘・濶ｲ・域ｿ・＞繧ｪ繝ｬ繝ｳ繧ｸ・・*/
+    --color-dark-orange: #c2410c;  /* 隕冶ｪ肴ｧ縺ｮ鬮倥＞豼・＞繧ｪ繝ｬ繝ｳ繧ｸ */
+
+    /* 繝・・繧ｿ谺謳肴凾縺ｪ縺ｩ */
+    --color-default: #f1f5f9;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans JP', 'Inter', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#app {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    text-align: center;
+    padding: 1rem 0;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    z-index: 10;
+}
+
+h1 {
+    font-size: 1.8rem;
+    color: #0f172a;
+    margin-bottom: 0.5rem;
+}
+
+main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+#map-container {
+    width: 100%;
+    height: 100%;
+    background: #ffffff;
+    position: relative;
+    overflow: hidden;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+    cursor: grab;
+}
+
+#map:active {
+    cursor: grabbing;
+}
+
+
+
+.loading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.2rem;
+    color: #64748b;
+    z-index: 5;
+}
+
+/* D3縺ｧ謠冗判縺輔ｌ繧九ヱ繧ｹ・亥ｸょ玄逕ｺ譚托ｼ峨・繧ｯ繝ｩ繧ｹ螳夂ｾｩ */
+.municipality {
+    transition: fill 0.3s ease;
+}
+
+/* 霑ｽ蜉・夐・驕灘ｺ懃恁蠅・阜邱壹・繧ｯ繝ｩ繧ｹ */
+.prefecture-border {
+    fill: none;
+    pointer-events: none;
+    vector-effect: non-scaling-stroke; /* 繧ｺ繝ｼ繝縺励※繧らｷ壹・螟ｪ縺輔ｒ荳螳壹↓菫昴▽險ｭ螳・*/
+}
+
+/* 霑ｽ蜉・壽僑螟ｧ譎ゅ↓陦ｨ遉ｺ縺吶ｋ蟶ょ玄逕ｺ譚大錐縺ｮ繝ｩ繝吶Ν */
+.municipality-label {
+    font-family: 'Noto Sans JP', sans-serif;
+    text-anchor: middle;
+    pointer-events: none; /* 繝槭え繧ｹ繧､繝吶Φ繝医ｒ雋ｫ騾壹＆縺帙ｋ */
+    visibility: hidden; /* 繝・ヵ繧ｩ繝ｫ繝医・髱櫁｡ｨ遉ｺ */
+    font-weight: 500;
+}
+
+/* 蜃｡萓九・繝・じ繧､繝ｳ */
+.legend-container {
+    display: flex;
+    gap: 1.5rem;
+    background: #fff;
+    padding: 1rem 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    align-items: center;
+}
+
+.legend-container h3 {
+    margin: 0;
+    font-size: 1rem;
+    margin-right: 1rem;
+    color: #475569;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+}
+
+.color-box {
+    width: 16px;
+    height: 16px;
+    border-radius: 4px;
+}
+
+.color-box.highlight-dark { background-color: var(--color-dark-orange); }
+.color-box.highlight-light { background-color: var(--color-light-orange); }
+.color-box.default { background-color: var(--color-default); border: 1px solid var(--border-color); }
+
+/* 病院マーカー用スタイル */
+.circle-legend {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.4);
+    margin-right: 6px;
+}
+
+.hospital-tooltip {
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.95);
+    color: #333;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 13px;
+    pointer-events: none;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    border: 1px solid #e2e8f0;
+    z-index: 2000;
+    white-space: nowrap;
+}
+.hospital-tooltip strong {
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 4px;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 3px;
+}

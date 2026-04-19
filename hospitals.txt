@@ -1,0 +1,4130 @@
+[
+  {
+    "name": "函館中央病院",
+    "address": "北海道函館市本町33-2",
+    "core": false,
+    "regional": true,
+    "lat": 41.78643,
+    "lng": 140.751053
+  },
+  {
+    "name": "市立函館病院",
+    "address": "北海道函館市港町1丁目10-1",
+    "core": false,
+    "regional": true,
+    "lat": 41.804401,
+    "lng": 140.72966
+  },
+  {
+    "name": "北海道大学病院",
+    "address": "北海道札幌市北区北14条西5丁目",
+    "core": true,
+    "regional": false,
+    "lat": 43.077339,
+    "lng": 141.345444
+  },
+  {
+    "name": "札幌医科大学附属病院",
+    "address": "北海道札幌市中央区南1条西16丁目291",
+    "core": true,
+    "regional": false,
+    "lat": 43.055676,
+    "lng": 141.333206
+  },
+  {
+    "name": "北海道立子ども総合医療・療育センター",
+    "address": "北海道札幌市手稲区金山1条1丁目240-6",
+    "core": true,
+    "regional": false,
+    "lat": 43.12841,
+    "lng": 141.209579
+  },
+  {
+    "name": "NTT東日本札幌病院",
+    "address": "北海道札幌市中央区南1条西15丁目",
+    "core": false,
+    "regional": true,
+    "lat": 43.056557,
+    "lng": 141.334534
+  },
+  {
+    "name": "市立札幌病院",
+    "address": "北海道札幌市中央区北11条西13丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 43.069893,
+    "lng": 141.33429
+  },
+  {
+    "name": "手稲渓仁会病院",
+    "address": "北海道札幌市手稲区前田1条12丁目1-40",
+    "core": false,
+    "regional": true,
+    "lat": 43.122437,
+    "lng": 141.243591
+  },
+  {
+    "name": "KKR札幌病院",
+    "address": "北海道札幌市豊平区平岸1条6丁目3-40",
+    "core": false,
+    "regional": true,
+    "lat": 43.035812,
+    "lng": 141.366699
+  },
+  {
+    "name": "JCHO北海道病院",
+    "address": "北海道札幌市豊平区中の島2条3丁目4-10",
+    "core": false,
+    "regional": true,
+    "lat": 43.035095,
+    "lng": 141.360489
+  },
+  {
+    "name": "JCHO北辰病院",
+    "address": "北海道札幌市厚別区厚別中央2条6丁目2-1",
+    "core": false,
+    "regional": true,
+    "lat": 43.042477,
+    "lng": 141.473953
+  },
+  {
+    "name": "天使病院",
+    "address": "北海道札幌市東区北12条東3丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 43.076569,
+    "lng": 141.357452
+  },
+  {
+    "name": "製鉄記念室蘭病院",
+    "address": "北海道室蘭市知利別町1丁目45",
+    "core": false,
+    "regional": true,
+    "lat": 42.35836,
+    "lng": 141.017578
+  },
+  {
+    "name": "日鋼記念病院",
+    "address": "北海道室蘭市新富町1丁目5-13",
+    "core": false,
+    "regional": true,
+    "lat": 42.316559,
+    "lng": 140.984314
+  },
+  {
+    "name": "苫小牧市立病院",
+    "address": "北海道苫小牧市清水町1丁目5-20",
+    "core": false,
+    "regional": true,
+    "lat": 42.653072,
+    "lng": 141.602753
+  },
+  {
+    "name": "旭川医科大学病院",
+    "address": "北海道旭川市緑が丘東2条1丁目1-1",
+    "core": true,
+    "regional": false,
+    "lat": 43.730633,
+    "lng": 142.381897
+  },
+  {
+    "name": "旭川厚生病院",
+    "address": "北海道旭川市1条通24丁目111番地",
+    "core": false,
+    "regional": true,
+    "lat": 43.758759,
+    "lng": 142.384888
+  },
+  {
+    "name": "名寄市立病院",
+    "address": "北海道名寄市西7条南8丁目1",
+    "core": false,
+    "regional": true,
+    "lat": 44.348461,
+    "lng": 142.451279
+  },
+  {
+    "name": "北見赤十字病院",
+    "address": "北海道北見市北6条東2丁目1",
+    "core": false,
+    "regional": true,
+    "lat": 43.808243,
+    "lng": 143.893265
+  },
+  {
+    "name": "帯広厚生病院",
+    "address": "北海道帯広市西14条南10丁目1",
+    "core": false,
+    "regional": true,
+    "lat": 42.919273,
+    "lng": 143.18222
+  },
+  {
+    "name": "市立釧路病院",
+    "address": "北海道釧路市俊寛町4-15",
+    "core": false,
+    "regional": true,
+    "lat": 42.984932,
+    "lng": 144.381775
+  },
+  {
+    "name": "釧路赤十字病院",
+    "address": "北海道釧路市新橋大通4丁目1-5",
+    "core": false,
+    "regional": true,
+    "lat": 43.004875,
+    "lng": 144.374817
+  },
+  {
+    "name": "弘前大学医学部附属病院",
+    "address": "青森県弘前市本町53",
+    "core": true,
+    "regional": false,
+    "lat": 40.599808,
+    "lng": 140.465576
+  },
+  {
+    "name": "NHO弘前病院",
+    "address": "青森県弘前市富野町1",
+    "core": false,
+    "regional": true,
+    "lat": 40.58971,
+    "lng": 140.475327
+  },
+  {
+    "name": "津軽健生病院",
+    "address": "青森県弘前市野田2丁目2-1",
+    "core": false,
+    "regional": true,
+    "lat": 40.607391,
+    "lng": 140.478928
+  },
+  {
+    "name": "弘前市立病院",
+    "address": "青森県弘前市大字下白銀町1",
+    "core": false,
+    "regional": true,
+    "lat": 40.606075,
+    "lng": 140.466019
+  },
+  {
+    "name": "八戸市立病院",
+    "address": "青森県八戸市田向3丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 40.494961,
+    "lng": 141.51355
+  },
+  {
+    "name": "青森市民病院",
+    "address": "青森県青森市勝田1丁目14-20",
+    "core": false,
+    "regional": true,
+    "lat": 40.814693,
+    "lng": 140.755524
+  },
+  {
+    "name": "青森県立中央病院",
+    "address": "青森県青森市東造道2丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 40.829823,
+    "lng": 140.794312
+  },
+  {
+    "name": "岩手医科大学附属病院",
+    "address": "岩手県紫波郡矢巾町医大通2丁目1-1",
+    "core": true,
+    "regional": false,
+    "lat": 39.61805,
+    "lng": 141.161835
+  },
+  {
+    "name": "岩手県立中央病院",
+    "address": "岩手県盛岡市上田1丁目4-1",
+    "core": false,
+    "regional": true,
+    "lat": 39.712734,
+    "lng": 141.146545
+  },
+  {
+    "name": "NHO盛岡医療センター",
+    "address": "岩手県盛岡市青山1丁目25-1",
+    "core": false,
+    "regional": true,
+    "lat": 39.721626,
+    "lng": 141.112686
+  },
+  {
+    "name": "川久保病院",
+    "address": "岩手県盛岡市津志田26地割30-1",
+    "core": false,
+    "regional": true,
+    "lat": 39.671806,
+    "lng": 141.158417
+  },
+  {
+    "name": "盛岡赤十字病院",
+    "address": "岩手県盛岡市三本柳6地割1-1",
+    "core": false,
+    "regional": true,
+    "lat": 39.662804,
+    "lng": 141.166336
+  },
+  {
+    "name": "北上済生会病院",
+    "address": "岩手県北上市花園町2丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 39.287624,
+    "lng": 141.119064
+  },
+  {
+    "name": "岩手県立中部病院",
+    "address": "岩手県北上市村崎野17地割10",
+    "core": false,
+    "regional": true,
+    "lat": 39.329899,
+    "lng": 141.104996
+  },
+  {
+    "name": "岩手県立磐井病院",
+    "address": "岩手県一関市狐禅寺字大平17",
+    "core": false,
+    "regional": true,
+    "lat": 38.936157,
+    "lng": 141.169876
+  },
+  {
+    "name": "岩手県立大船渡病院",
+    "address": "岩手県大船渡市盛町字下舘下10-1",
+    "core": false,
+    "regional": true,
+    "lat": 39.075169,
+    "lng": 141.706833
+  },
+  {
+    "name": "岩手県立釜石病院",
+    "address": "岩手県釜石市甲子町第10地割483-6",
+    "core": false,
+    "regional": true,
+    "lat": 39.254147,
+    "lng": 141.811722
+  },
+  {
+    "name": "岩手県立宮古病院",
+    "address": "岩手県宮古市崎鍬ヶ崎第1地割11-26",
+    "core": false,
+    "regional": true,
+    "lat": 39.657452,
+    "lng": 141.949066
+  },
+  {
+    "name": "岩手県立久慈病院",
+    "address": "岩手県久慈市旭町第10地割1",
+    "core": false,
+    "regional": true,
+    "lat": 40.200108,
+    "lng": 141.77742
+  },
+  {
+    "name": "岩手県立二戸病院",
+    "address": "岩手県二戸市堀野字大川原ヶ久保38-2",
+    "core": false,
+    "regional": true,
+    "lat": 40.299007,
+    "lng": 141.301376
+  },
+  {
+    "name": "みやぎ県南中核病院",
+    "address": "宮城県柴田郡大河原町字西38-1",
+    "core": false,
+    "regional": true,
+    "lat": 38.061867,
+    "lng": 140.734695
+  },
+  {
+    "name": "東北大学病院",
+    "address": "宮城県仙台市青葉区星陵町1-1",
+    "core": true,
+    "regional": false,
+    "lat": 38.272213,
+    "lng": 140.860947
+  },
+  {
+    "name": "宮城県立こども病院",
+    "address": "宮城県仙台市青葉区落合4丁目3-17",
+    "core": true,
+    "regional": false,
+    "lat": 38.273777,
+    "lng": 140.783432
+  },
+  {
+    "name": "NHO仙台医療センター",
+    "address": "宮城県仙台市宮城野区宮城野2丁目11-12",
+    "core": false,
+    "regional": true,
+    "lat": 38.260201,
+    "lng": 140.904236
+  },
+  {
+    "name": "仙台市立病院",
+    "address": "宮城県仙台市太白区あすと長町1丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 38.233315,
+    "lng": 140.888992
+  },
+  {
+    "name": "仙台赤十字病院",
+    "address": "宮城県仙台市太白区八木山本町2丁目48-1",
+    "core": false,
+    "regional": true,
+    "lat": 38.237942,
+    "lng": 140.841492
+  },
+  {
+    "name": "東北医科薬科大学病院",
+    "address": "宮城県仙台市宮城野区福室1丁目12-1",
+    "core": false,
+    "regional": true,
+    "lat": 38.269073,
+    "lng": 140.967056
+  },
+  {
+    "name": "大崎市民病院",
+    "address": "宮城県大崎市古川穂波3丁目8-1",
+    "core": false,
+    "regional": true,
+    "lat": 38.565533,
+    "lng": 140.944031
+  },
+  {
+    "name": "石巻赤十字病院",
+    "address": "宮城県石巻市蛇田字西道下71",
+    "core": false,
+    "regional": true,
+    "lat": 38.458828,
+    "lng": 141.27919
+  },
+  {
+    "name": "大館市立病院",
+    "address": "秋田県大館市豊町3-1",
+    "core": false,
+    "regional": true,
+    "lat": 40.273235,
+    "lng": 140.555115
+  },
+  {
+    "name": "秋田大学医学部附属病院",
+    "address": "秋田県秋田市本道1丁目1-1",
+    "core": true,
+    "regional": false,
+    "lat": 39.719959,
+    "lng": 140.103516
+  },
+  {
+    "name": "秋田赤十字病院",
+    "address": "秋田県秋田市上北手猿田字苗代沢222-1",
+    "core": false,
+    "regional": true,
+    "lat": 39.68605,
+    "lng": 140.152466
+  },
+  {
+    "name": "市立秋田病院",
+    "address": "秋田県秋田市川元松丘町4-30",
+    "core": false,
+    "regional": true,
+    "lat": 39.712769,
+    "lng": 140.102997
+  },
+  {
+    "name": "平鹿総合病院",
+    "address": "秋田県横手市前郷字八ツ口3-1",
+    "core": false,
+    "regional": true,
+    "lat": 39.312614,
+    "lng": 140.548767
+  },
+  {
+    "name": "山形大学医学部附属病院",
+    "address": "山形県山形市飯田西2丁目2-2",
+    "core": true,
+    "regional": false,
+    "lat": 38.213795,
+    "lng": 140.315613
+  },
+  {
+    "name": "山形県立中央病院",
+    "address": "山形県山形市大字青柳1800",
+    "core": false,
+    "regional": true,
+    "lat": 38.300449,
+    "lng": 140.346176
+  },
+  {
+    "name": "山形市立済生館病院",
+    "address": "山形県山形市七日町1丁目3-26",
+    "core": false,
+    "regional": true,
+    "lat": 38.253063,
+    "lng": 140.33815
+  },
+  {
+    "name": "米沢市立病院",
+    "address": "山形県米沢市相生町6-36",
+    "core": false,
+    "regional": true,
+    "lat": 37.903782,
+    "lng": 140.119125
+  },
+  {
+    "name": "鶴岡市立荘内病院",
+    "address": "山形県鶴岡市泉町10-17",
+    "core": false,
+    "regional": true,
+    "lat": 38.731586,
+    "lng": 139.830124
+  },
+  {
+    "name": "日本海総合病院",
+    "address": "山形県酒田市あきほ町30",
+    "core": false,
+    "regional": true,
+    "lat": 38.890736,
+    "lng": 139.854111
+  },
+  {
+    "name": "福島県立医科大学附属病院",
+    "address": "福島県福島市光が丘1",
+    "core": true,
+    "regional": false,
+    "lat": 37.689926,
+    "lng": 140.471603
+  },
+  {
+    "name": "大原総合病院",
+    "address": "福島県福島市上町6-1",
+    "core": false,
+    "regional": true,
+    "lat": 37.753292,
+    "lng": 140.468231
+  },
+  {
+    "name": "太田西ノ内病院",
+    "address": "福島県郡山市西ノ内2丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 37.405918,
+    "lng": 140.368073
+  },
+  {
+    "name": "いわき市医療センター",
+    "address": "福島県いわき市内郷御厩町久保22",
+    "core": false,
+    "regional": true,
+    "lat": 37.041328,
+    "lng": 140.865707
+  },
+  {
+    "name": "竹田綜合病院",
+    "address": "福島県会津若松市山鹿町3-27",
+    "core": false,
+    "regional": true,
+    "lat": 37.49115,
+    "lng": 139.922028
+  },
+  {
+    "name": "茨城県立こども病院",
+    "address": "茨城県水戸市双葉台3丁目3-1",
+    "core": true,
+    "regional": false,
+    "lat": 36.398888,
+    "lng": 140.393967
+  },
+  {
+    "name": "日立総合病院",
+    "address": "茨城県日立市城南町2丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.591316,
+    "lng": 140.643677
+  },
+  {
+    "name": "ひたちなか総合病院",
+    "address": "茨城県ひたちなか市石川町20番地1",
+    "core": false,
+    "regional": true,
+    "lat": 36.393044,
+    "lng": 140.529633
+  },
+  {
+    "name": "神栖済生会病院",
+    "address": "茨城県神栖市知手中央7丁目2-45",
+    "core": false,
+    "regional": true,
+    "lat": 35.871609,
+    "lng": 140.709579
+  },
+  {
+    "name": "土浦協同病院",
+    "address": "茨城県土浦市おおつ野4丁目1-1",
+    "core": true,
+    "regional": false,
+    "lat": 36.083057,
+    "lng": 140.257309
+  },
+  {
+    "name": "筑波大学病院",
+    "address": "茨城県つくば市天久保2丁目1-1",
+    "core": true,
+    "regional": false,
+    "lat": 36.093224,
+    "lng": 140.10202
+  },
+  {
+    "name": "筑波メディカルセンター",
+    "address": "茨城県つくば市天久保1丁目3-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.092152,
+    "lng": 140.106537
+  },
+  {
+    "name": "JAとりで総合医療センター",
+    "address": "茨城県取手市本郷2丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.91098,
+    "lng": 140.068802
+  },
+  {
+    "name": "茨城西南医療センター",
+    "address": "茨城県猿島郡境町2190",
+    "core": false,
+    "regional": true,
+    "lat": 36.119019,
+    "lng": 139.796158
+  },
+  {
+    "name": "那須赤十字病院",
+    "address": "栃木県大田原市中田原1081-4",
+    "core": false,
+    "regional": true,
+    "lat": 36.88142,
+    "lng": 140.036987
+  },
+  {
+    "name": "国際医療福祉大学病院",
+    "address": "栃木県那須塩原市井口537-3",
+    "core": false,
+    "regional": true,
+    "lat": 36.91243,
+    "lng": 139.973099
+  },
+  {
+    "name": "済生会宇都宮病院",
+    "address": "栃木県宇都宮市竹林町911-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.579189,
+    "lng": 139.89743
+  },
+  {
+    "name": "芳賀赤十字病院",
+    "address": "栃木県真岡市台町2461",
+    "core": false,
+    "regional": true,
+    "lat": 36.436932,
+    "lng": 140.006454
+  },
+  {
+    "name": "自治医科大学附属病院",
+    "address": "栃木県下野市薬師寺3311-1",
+    "core": true,
+    "regional": false,
+    "lat": 36.4034,
+    "lng": 139.858521
+  },
+  {
+    "name": "獨協医科大学病院",
+    "address": "栃木県下都賀郡壬生町大字北小林880",
+    "core": true,
+    "regional": false,
+    "lat": 36.472305,
+    "lng": 139.825363
+  },
+  {
+    "name": "佐野厚生病院",
+    "address": "栃木県佐野市堀米町1728",
+    "core": false,
+    "regional": true,
+    "lat": 36.325302,
+    "lng": 139.571945
+  },
+  {
+    "name": "足利赤十字病院",
+    "address": "栃木県足利市五十部町284-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.339684,
+    "lng": 139.421249
+  },
+  {
+    "name": "群馬県立小児医療センター",
+    "address": "群馬県渋川市北橘町下箱田779",
+    "core": true,
+    "regional": false,
+    "lat": 36.459984,
+    "lng": 139.046387
+  },
+  {
+    "name": "利根中央病院",
+    "address": "群馬県沼田市東原新町1855-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.648525,
+    "lng": 139.054504
+  },
+  {
+    "name": "群馬大学医学部附属病院",
+    "address": "群馬県前橋市昭和町3丁目39-15",
+    "core": true,
+    "regional": false,
+    "lat": 36.406254,
+    "lng": 139.062698
+  },
+  {
+    "name": "前橋赤十字病院",
+    "address": "群馬県前橋市朝倉町389-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.361889,
+    "lng": 139.093018
+  },
+  {
+    "name": "JCHO群馬中央病院",
+    "address": "群馬県前橋市紅雲町1丁目7-13",
+    "core": false,
+    "regional": true,
+    "lat": 36.386566,
+    "lng": 139.062073
+  },
+  {
+    "name": "伊勢崎市民病院",
+    "address": "群馬県伊勢崎市連取町2948",
+    "core": false,
+    "regional": true,
+    "lat": 36.317459,
+    "lng": 139.182632
+  },
+  {
+    "name": "前橋協立病院",
+    "address": "群馬県前橋市朝倉町828-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.369335,
+    "lng": 139.086441
+  },
+  {
+    "name": "NHO高崎総合医療センター",
+    "address": "群馬県高崎市高松町36",
+    "core": false,
+    "regional": true,
+    "lat": 36.321999,
+    "lng": 139.001633
+  },
+  {
+    "name": "公立藤岡病院",
+    "address": "群馬県藤岡市藤岡942-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.251717,
+    "lng": 139.076279
+  },
+  {
+    "name": "公立富岡病院",
+    "address": "群馬県富岡市富岡2073-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.264175,
+    "lng": 138.903152
+  },
+  {
+    "name": "SUBARU健康保険組合太田記念病院",
+    "address": "群馬県太田市大原町297-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.352001,
+    "lng": 139.297699
+  },
+  {
+    "name": "桐生厚生病院",
+    "address": "群馬県桐生市織姫町6-3",
+    "core": false,
+    "regional": true,
+    "lat": 36.404438,
+    "lng": 139.328186
+  },
+  {
+    "name": "川口市立医療センター",
+    "address": "埼玉県川口市西新井宿1802",
+    "core": false,
+    "regional": true,
+    "lat": 35.846832,
+    "lng": 139.732178
+  },
+  {
+    "name": "済生会川口総合病院",
+    "address": "埼玉県川口市西川口5丁目11-5",
+    "core": false,
+    "regional": true,
+    "lat": 35.809605,
+    "lng": 139.703674
+  },
+  {
+    "name": "戸田中央病院",
+    "address": "埼玉県戸田市上戸田1丁目19-3",
+    "core": false,
+    "regional": true,
+    "lat": 35.818138,
+    "lng": 139.678909
+  },
+  {
+    "name": "埼玉協同病院",
+    "address": "埼玉県川口市木曽呂1317",
+    "core": false,
+    "regional": true,
+    "lat": 35.859715,
+    "lng": 139.71637
+  },
+  {
+    "name": "蕨市立病院",
+    "address": "埼玉県蕨市北町2丁目12-18",
+    "core": false,
+    "regional": true,
+    "lat": 35.828495,
+    "lng": 139.67955
+  },
+  {
+    "name": "NHO埼玉病院",
+    "address": "埼玉県和光市諏訪2-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.775818,
+    "lng": 139.618439
+  },
+  {
+    "name": "獨協医科大学埼玉医療センター",
+    "address": "埼玉県越谷市南越谷2丁目1-50",
+    "core": true,
+    "regional": false,
+    "lat": 35.878487,
+    "lng": 139.789307
+  },
+  {
+    "name": "越谷市立病院",
+    "address": "埼玉県越谷市東越谷10丁目80",
+    "core": false,
+    "regional": true,
+    "lat": 35.899536,
+    "lng": 139.806122
+  },
+  {
+    "name": "春日部市立病院",
+    "address": "埼玉県春日部市中央6丁目7-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.974277,
+    "lng": 139.751007
+  },
+  {
+    "name": "草加市立病院",
+    "address": "埼玉県草加市草加2丁目21-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.83548,
+    "lng": 139.796295
+  },
+  {
+    "name": "埼玉県立小児医療センター",
+    "address": "埼玉県さいたま市中央区新都心1-2",
+    "core": true,
+    "regional": false,
+    "lat": 35.891815,
+    "lng": 139.632233
+  },
+  {
+    "name": "さいたま市立病院",
+    "address": "埼玉県さいたま市緑区三室2460",
+    "core": false,
+    "regional": true,
+    "lat": 35.891266,
+    "lng": 139.678665
+  },
+  {
+    "name": "さいたま市民医療センター",
+    "address": "埼玉県さいたま市西区島根199-2",
+    "core": false,
+    "regional": true,
+    "lat": 35.883183,
+    "lng": 139.59935
+  },
+  {
+    "name": "自治医科大学附属さいたま医療センター",
+    "address": "埼玉県さいたま市大宮区天沼町1丁目847",
+    "core": false,
+    "regional": true,
+    "lat": 35.907181,
+    "lng": 139.645355
+  },
+  {
+    "name": "北里大学メディカルセンター",
+    "address": "埼玉県北本市荒井6丁目121",
+    "core": false,
+    "regional": true,
+    "lat": 36.010227,
+    "lng": 139.51236
+  },
+  {
+    "name": "上尾中央病院",
+    "address": "埼玉県上尾市柏座1丁目10-10",
+    "core": false,
+    "regional": true,
+    "lat": 35.974049,
+    "lng": 139.585846
+  },
+  {
+    "name": "埼玉医科大学病院",
+    "address": "埼玉県入間郡毛呂山町毛呂本郷38",
+    "core": true,
+    "regional": false,
+    "lat": 35.936001,
+    "lng": 139.304062
+  },
+  {
+    "name": "埼玉医科大学総合医療センター",
+    "address": "埼玉県川越市鴨田1981",
+    "core": true,
+    "regional": false,
+    "lat": 35.934853,
+    "lng": 139.519485
+  },
+  {
+    "name": "防衛医科大学校病院",
+    "address": "埼玉県所沢市並木3丁目2",
+    "core": true,
+    "regional": false,
+    "lat": 35.801842,
+    "lng": 139.46727
+  },
+  {
+    "name": "NHO西埼玉中央病院",
+    "address": "埼玉県所沢市若狭2丁目1677-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.801701,
+    "lng": 139.421844
+  },
+  {
+    "name": "所沢市市民医療センター",
+    "address": "埼玉県所沢市上安松1224-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.791527,
+    "lng": 139.480103
+  },
+  {
+    "name": "土屋小児病院",
+    "address": "埼玉県久喜市上早見418-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.070473,
+    "lng": 139.65625
+  },
+  {
+    "name": "深谷赤十字病院",
+    "address": "埼玉県深谷市上柴町東5丁目2-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.179863,
+    "lng": 139.30043
+  },
+  {
+    "name": "千葉大学医学部附属病院",
+    "address": "千葉県千葉市中央区亥鼻1丁目8-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.604595,
+    "lng": 140.133743
+  },
+  {
+    "name": "千葉県こども病院",
+    "address": "千葉県千葉市緑区辺田町579-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.557079,
+    "lng": 140.19075
+  },
+  {
+    "name": "千葉市立海浜病院",
+    "address": "千葉県千葉市美浜区磯辺3丁目31-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.627953,
+    "lng": 140.051239
+  },
+  {
+    "name": "東京女子医科大学八千代医療センター",
+    "address": "千葉県八千代市大和田新田477-96",
+    "core": false,
+    "regional": true,
+    "lat": 35.727715,
+    "lng": 140.095078
+  },
+  {
+    "name": "順天堂大学浦安病院",
+    "address": "千葉県浦安市富岡2丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.645916,
+    "lng": 139.906921
+  },
+  {
+    "name": "船橋市立医療センター",
+    "address": "千葉県船橋市金杉1丁目21-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.723766,
+    "lng": 139.998505
+  },
+  {
+    "name": "谷津保健病院",
+    "address": "千葉県習志野市谷津4丁目6-16",
+    "core": false,
+    "regional": true,
+    "lat": 35.684921,
+    "lng": 140.00679
+  },
+  {
+    "name": "松戸市立病院",
+    "address": "千葉県松戸市千駄堀993-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.801975,
+    "lng": 139.932526
+  },
+  {
+    "name": "東京慈恵会医科大学附属柏病院",
+    "address": "千葉県柏市柏下163-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.86998,
+    "lng": 139.982788
+  },
+  {
+    "name": "成田赤十字病院",
+    "address": "千葉県成田市飯田町712",
+    "core": false,
+    "regional": true,
+    "lat": 35.765575,
+    "lng": 140.299652
+  },
+  {
+    "name": "日本医科大学千葉北総病院",
+    "address": "千葉県印西市鎌苅1715",
+    "core": false,
+    "regional": true,
+    "lat": 35.78017,
+    "lng": 140.196228
+  },
+  {
+    "name": "東邦大学医療センター佐倉病院",
+    "address": "千葉県佐倉市下志津250",
+    "core": false,
+    "regional": true,
+    "lat": 35.717945,
+    "lng": 140.169464
+  },
+  {
+    "name": "NHO下志津病院",
+    "address": "千葉県四街道市鹿渡934-5",
+    "core": false,
+    "regional": true,
+    "lat": 35.6656,
+    "lng": 140.16658
+  },
+  {
+    "name": "国保旭中央病院",
+    "address": "千葉県旭市イの1326",
+    "core": false,
+    "regional": true,
+    "lat": 35.723259,
+    "lng": 140.66864
+  },
+  {
+    "name": "亀田総合病院",
+    "address": "千葉県鴨川市東町929",
+    "core": false,
+    "regional": true,
+    "lat": 35.120132,
+    "lng": 140.125504
+  },
+  {
+    "name": "君津中央病院",
+    "address": "千葉県木更津市桜井1010",
+    "core": false,
+    "regional": true,
+    "lat": 35.360264,
+    "lng": 139.924438
+  },
+  {
+    "name": "東京大学医学部附属病院",
+    "address": "東京都文京区本郷7丁目3-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.714146,
+    "lng": 139.763214
+  },
+  {
+    "name": "順天堂大学医学部附属順天堂医院",
+    "address": "東京都文京区本郷3丁目1-3",
+    "core": true,
+    "regional": false,
+    "lat": 35.701878,
+    "lng": 139.762177
+  },
+  {
+    "name": "東京医科歯科大学医学部附属病院",
+    "address": "東京都文京区湯島1丁目5-45",
+    "core": true,
+    "regional": false,
+    "lat": 35.701828,
+    "lng": 139.765274
+  },
+  {
+    "name": "東京慈恵会医科大学附属病院",
+    "address": "東京都港区西新橋3丁目19-18",
+    "core": true,
+    "regional": false,
+    "lat": 35.663685,
+    "lng": 139.751434
+  },
+  {
+    "name": "日本大学病院",
+    "address": "東京都千代田区神田駿河台1丁目6",
+    "core": true,
+    "regional": false,
+    "lat": 35.697113,
+    "lng": 139.762665
+  },
+  {
+    "name": "日本医科大学附属病院",
+    "address": "東京都文京区千駄木1丁目1-5",
+    "core": true,
+    "regional": false,
+    "lat": 35.721233,
+    "lng": 139.758453
+  },
+  {
+    "name": "国立がん研究センタ－中央病院",
+    "address": "東京都中央区築地5丁目1-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.665504,
+    "lng": 139.766815
+  },
+  {
+    "name": "KKR虎の門病院",
+    "address": "東京都港区虎ノ門2丁目2-2",
+    "core": false,
+    "regional": true,
+    "lat": 35.669044,
+    "lng": 139.745483
+  },
+  {
+    "name": "聖路加国際病院",
+    "address": "東京都中央区明石町9-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.667965,
+    "lng": 139.776779
+  },
+  {
+    "name": "東邦大学医療センター大森病院",
+    "address": "東京都大田区大森西6丁目11-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.569328,
+    "lng": 139.723694
+  },
+  {
+    "name": "昭和大学病院",
+    "address": "東京都品川区旗の台1丁目5-8",
+    "core": true,
+    "regional": false,
+    "lat": 35.60899,
+    "lng": 139.704071
+  },
+  {
+    "name": "東京都保健医療公社荏原病院",
+    "address": "東京都大田区東雪谷4丁目5-10",
+    "core": false,
+    "regional": true,
+    "lat": 35.593746,
+    "lng": 139.692047
+  },
+  {
+    "name": "国立成育医療研究センター",
+    "address": "東京都世田谷区大蔵2丁目10-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.63287,
+    "lng": 139.613312
+  },
+  {
+    "name": "東京都立広尾病院",
+    "address": "東京都渋谷区恵比寿2丁目34-10",
+    "core": false,
+    "regional": true,
+    "lat": 35.647503,
+    "lng": 139.722046
+  },
+  {
+    "name": "日本赤十字社医療センター",
+    "address": "東京都渋谷区広尾4丁目1-22",
+    "core": false,
+    "regional": true,
+    "lat": 35.656685,
+    "lng": 139.718201
+  },
+  {
+    "name": "東邦大学医療センター大橋病院",
+    "address": "東京都目黒区大橋2丁目22-36",
+    "core": true,
+    "regional": false,
+    "lat": 35.652473,
+    "lng": 139.684448
+  },
+  {
+    "name": "東京女子医科大学病院",
+    "address": "東京都新宿区河田町8-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.696342,
+    "lng": 139.719635
+  },
+  {
+    "name": "慶應義塾大学病院",
+    "address": "東京都新宿区信濃町35",
+    "core": true,
+    "regional": false,
+    "lat": 35.681423,
+    "lng": 139.718048
+  },
+  {
+    "name": "東京医科大学病院",
+    "address": "東京都新宿区西新宿6丁目7-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.694145,
+    "lng": 139.693008
+  },
+  {
+    "name": "NHO東京医療センター",
+    "address": "東京都目黒区東が丘2丁目5-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.625114,
+    "lng": 139.666763
+  },
+  {
+    "name": "国立国際医療研究センター",
+    "address": "東京都新宿区戸山1丁目21-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.703987,
+    "lng": 139.716217
+  },
+  {
+    "name": "日本大学医学部附属板橋病院",
+    "address": "東京都板橋区大谷口上町30-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.749275,
+    "lng": 139.691055
+  },
+  {
+    "name": "東京都保健医療公社豊島病院",
+    "address": "東京都板橋区栄町33-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.752899,
+    "lng": 139.700607
+  },
+  {
+    "name": "帝京大学医学部附属病院",
+    "address": "東京都板橋区加賀2丁目11-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.759392,
+    "lng": 139.714478
+  },
+  {
+    "name": "東京都立大塚病院",
+    "address": "東京都豊島区南大塚2丁目8-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.724743,
+    "lng": 139.73204
+  },
+  {
+    "name": "東京北医療センター",
+    "address": "東京都北区赤羽台4丁目17-56",
+    "core": false,
+    "regional": true,
+    "lat": 35.78389,
+    "lng": 139.71254
+  },
+  {
+    "name": "順天堂大学医学部附属練馬病院",
+    "address": "東京都練馬区高野台3丁目1-10",
+    "core": false,
+    "regional": true,
+    "lat": 35.742813,
+    "lng": 139.614899
+  },
+  {
+    "name": "東京慈恵会医科大学葛飾医療センター",
+    "address": "東京都葛飾区青戸6丁目41-2",
+    "core": false,
+    "regional": true,
+    "lat": 35.752235,
+    "lng": 139.857986
+  },
+  {
+    "name": "東京女子医科大学東医療センター",
+    "address": "東京都足立区江北4丁目3-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.773041,
+    "lng": 139.769409
+  },
+  {
+    "name": "東京臨海病院",
+    "address": "東京都江戸川区臨海町1丁目4-2",
+    "core": true,
+    "regional": false,
+    "lat": 35.651829,
+    "lng": 139.852676
+  },
+  {
+    "name": "東京都立墨東病院",
+    "address": "東京都墨田区江東橋4丁目23-15",
+    "core": true,
+    "regional": false,
+    "lat": 35.694927,
+    "lng": 139.817917
+  },
+  {
+    "name": "青梅市立総合病院",
+    "address": "東京都青梅市東青梅4丁目16-5",
+    "core": false,
+    "regional": true,
+    "lat": 35.782513,
+    "lng": 139.281174
+  },
+  {
+    "name": "日本医科大学多摩永山病院",
+    "address": "東京都多摩市永山1丁目7-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.631214,
+    "lng": 139.446304
+  },
+  {
+    "name": "日野市立病院",
+    "address": "東京都日野市多摩平4丁目3-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.66647,
+    "lng": 139.378754
+  },
+  {
+    "name": "東京医科大学八王子医療センター",
+    "address": "東京都八王子市館町1163",
+    "core": false,
+    "regional": true,
+    "lat": 35.632919,
+    "lng": 139.288834
+  },
+  {
+    "name": "東海大学医学部附属八王子病院",
+    "address": "東京都八王子市石川町1838",
+    "core": false,
+    "regional": true,
+    "lat": 35.673813,
+    "lng": 139.357056
+  },
+  {
+    "name": "稲城市立病院",
+    "address": "東京都稲城市大丸1171",
+    "core": false,
+    "regional": true,
+    "lat": 35.641563,
+    "lng": 139.481995
+  },
+  {
+    "name": "東京都立小児総合医療センター",
+    "address": "東京都府中市武蔵台2丁目8-29",
+    "core": true,
+    "regional": false,
+    "lat": 35.692005,
+    "lng": 139.461517
+  },
+  {
+    "name": "杏林大学医学部附属病院",
+    "address": "東京都三鷹市新川6丁目20-2",
+    "core": true,
+    "regional": false,
+    "lat": 35.677597,
+    "lng": 139.565598
+  },
+  {
+    "name": "太陽こども病院",
+    "address": "東京都昭島市昭和町2丁目1-20",
+    "core": false,
+    "regional": true,
+    "lat": 35.71347,
+    "lng": 139.360504
+  },
+  {
+    "name": "KKR立川病院",
+    "address": "東京都立川市錦町4丁目2-22",
+    "core": false,
+    "regional": true,
+    "lat": 35.69252,
+    "lng": 139.421524
+  },
+  {
+    "name": "東京慈恵会医科大学附属第三病院",
+    "address": "東京都調布市国領町4丁目11-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.648453,
+    "lng": 139.557373
+  },
+  {
+    "name": "武蔵野赤十字病院",
+    "address": "東京都武蔵野市境南町1丁目26-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.697903,
+    "lng": 139.546799
+  },
+  {
+    "name": "東京都保健医療公社多摩北部医療センター",
+    "address": "東京都東村山市青葉町1丁目24-5",
+    "core": true,
+    "regional": false,
+    "lat": 35.760712,
+    "lng": 139.499603
+  },
+  {
+    "name": "聖マリアンナ医科大学病院",
+    "address": "神奈川県川崎市宮前区菅生2丁目16-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.59956,
+    "lng": 139.547073
+  },
+  {
+    "name": "川崎市立多摩病院",
+    "address": "神奈川県川崎市多摩区宿河原1丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.620644,
+    "lng": 139.573212
+  },
+  {
+    "name": "帝京大学溝口病院",
+    "address": "神奈川県川崎市高津区二子5丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.602337,
+    "lng": 139.616394
+  },
+  {
+    "name": "川崎市立川崎病院",
+    "address": "神奈川県川崎市川崎区新川通12-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.526581,
+    "lng": 139.706238
+  },
+  {
+    "name": "日本医科大学武蔵小杉病院",
+    "address": "神奈川県川崎市中原区小杉町1丁目396",
+    "core": false,
+    "regional": true,
+    "lat": 35.579029,
+    "lng": 139.658081
+  },
+  {
+    "name": "川崎協同病院",
+    "address": "神奈川県川崎市川崎区桜本2丁目1-4",
+    "core": false,
+    "regional": true,
+    "lat": 35.521923,
+    "lng": 139.721725
+  },
+  {
+    "name": "茅ヶ崎市立病院",
+    "address": "神奈川県茅ヶ崎市本村5丁目15-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.340237,
+    "lng": 139.415344
+  },
+  {
+    "name": "藤沢市民病院",
+    "address": "神奈川県藤沢市藤沢2丁目6-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.350033,
+    "lng": 139.481842
+  },
+  {
+    "name": "東海大学医学部附属病院",
+    "address": "神奈川県伊勢原市下糟屋143",
+    "core": true,
+    "regional": false,
+    "lat": 35.406673,
+    "lng": 139.313675
+  },
+  {
+    "name": "平塚市民病院",
+    "address": "神奈川県平塚市南原1丁目19-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.33654,
+    "lng": 139.325287
+  },
+  {
+    "name": "伊勢原協同病院",
+    "address": "神奈川県伊勢原市田中345",
+    "core": false,
+    "regional": true,
+    "lat": 35.404133,
+    "lng": 139.311508
+  },
+  {
+    "name": "海老名総合病院",
+    "address": "神奈川県海老名市河原口1320",
+    "core": false,
+    "regional": true,
+    "lat": 35.447342,
+    "lng": 139.385284
+  },
+  {
+    "name": "厚木市立病院",
+    "address": "神奈川県厚木市水引1丁目16-36",
+    "core": false,
+    "regional": true,
+    "lat": 35.449062,
+    "lng": 139.360291
+  },
+  {
+    "name": "大和市立病院",
+    "address": "神奈川県大和市深見西8丁目3-6",
+    "core": false,
+    "regional": true,
+    "lat": 35.48666,
+    "lng": 139.457428
+  },
+  {
+    "name": "北里大学病院",
+    "address": "神奈川県相模原市南区北里1丁目15-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.538513,
+    "lng": 139.393845
+  },
+  {
+    "name": "JA相模原協同病院",
+    "address": "神奈川県相模原市緑区橋本台2丁目8-18",
+    "core": false,
+    "regional": true,
+    "lat": 35.585621,
+    "lng": 139.337799
+  },
+  {
+    "name": "JCHO相摸野病院",
+    "address": "神奈川県相模原市中央区淵野辺1丁目2-30",
+    "core": false,
+    "regional": true,
+    "lat": 35.572586,
+    "lng": 139.388229
+  },
+  {
+    "name": "NHO相模原病院",
+    "address": "神奈川県相模原市南区桜台18-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.519661,
+    "lng": 139.41095
+  },
+  {
+    "name": "小田原市立病院",
+    "address": "神奈川県小田原市久野46",
+    "core": false,
+    "regional": true,
+    "lat": 35.267757,
+    "lng": 139.151993
+  },
+  {
+    "name": "横須賀市立うわまち病院",
+    "address": "神奈川県横須賀市上町2丁目36",
+    "core": false,
+    "regional": true,
+    "lat": 35.271778,
+    "lng": 139.668564
+  },
+  {
+    "name": "KKR横須賀共済病院",
+    "address": "神奈川県横須賀市米が浜通1丁目16",
+    "core": false,
+    "regional": true,
+    "lat": 35.276657,
+    "lng": 139.674347
+  },
+  {
+    "name": "横浜労災病院",
+    "address": "神奈川県横浜市港北区小机町3211",
+    "core": false,
+    "regional": true,
+    "lat": 35.510883,
+    "lng": 139.611008
+  },
+  {
+    "name": "昭和大学藤が丘病院",
+    "address": "神奈川県横浜市青葉区藤が丘1丁目30",
+    "core": false,
+    "regional": true,
+    "lat": 35.544819,
+    "lng": 139.52951
+  },
+  {
+    "name": "昭和大学横浜市北部病院",
+    "address": "神奈川県横浜市都筑区茅ケ崎中央35-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.546692,
+    "lng": 139.569946
+  },
+  {
+    "name": "済生会横浜市東部病院",
+    "address": "神奈川県横浜市鶴見区下末吉3丁目3-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.522438,
+    "lng": 139.672333
+  },
+  {
+    "name": "聖マリアンナ医科大学横浜市西部病院",
+    "address": "神奈川県横浜市旭区矢指町1197-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.476376,
+    "lng": 139.502441
+  },
+  {
+    "name": "NHO横浜医療センター",
+    "address": "神奈川県横浜市戸塚区原宿3丁目60-2",
+    "core": false,
+    "regional": true,
+    "lat": 35.380184,
+    "lng": 139.504578
+  },
+  {
+    "name": "横浜市立市民病院",
+    "address": "神奈川県横浜市神奈川区三ツ沢西町1-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.469101,
+    "lng": 139.605103
+  },
+  {
+    "name": "けいゆう病院",
+    "address": "神奈川県横浜市西区みなとみらい3丁目3-2",
+    "core": false,
+    "regional": true,
+    "lat": 35.456238,
+    "lng": 139.629166
+  },
+  {
+    "name": "横浜市立大学附属病院",
+    "address": "神奈川県横浜市金沢区福浦3丁目9",
+    "core": true,
+    "regional": false,
+    "lat": 35.344501,
+    "lng": 139.651031
+  },
+  {
+    "name": "神奈川県立こども病院",
+    "address": "神奈川県横浜市南区六ツ川2丁目122-21",
+    "core": true,
+    "regional": false,
+    "lat": 35.426823,
+    "lng": 139.57991
+  },
+  {
+    "name": "横浜市立大学附属市民総合医療センター",
+    "address": "神奈川県横浜市南区浦舟町4丁目57",
+    "core": false,
+    "regional": true,
+    "lat": 35.433781,
+    "lng": 139.624664
+  },
+  {
+    "name": "済生会横浜市南部病院",
+    "address": "神奈川県横浜市港南区港南台3丁目2-10",
+    "core": false,
+    "regional": true,
+    "lat": 35.375286,
+    "lng": 139.579254
+  },
+  {
+    "name": "横浜市立みなと赤十字病院",
+    "address": "神奈川県横浜市中区新山下3丁目12-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.436916,
+    "lng": 139.662689
+  },
+  {
+    "name": "汐見台病院",
+    "address": "神奈川県横浜市磯子区汐見台1丁目6-5",
+    "core": false,
+    "regional": true,
+    "lat": 35.402256,
+    "lng": 139.609131
+  },
+  {
+    "name": "KKR横浜南共済病院",
+    "address": "神奈川県横浜市金沢区六浦東1丁目21-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.320663,
+    "lng": 139.622498
+  },
+  {
+    "name": "新潟県立新発田病院",
+    "address": "新潟県新発田市本町1丁目2-8",
+    "core": false,
+    "regional": true,
+    "lat": 37.946373,
+    "lng": 139.333191
+  },
+  {
+    "name": "新潟大学医歯学総合病院",
+    "address": "新潟県新潟市中央区旭町通1番町757",
+    "core": true,
+    "regional": false,
+    "lat": 37.920101,
+    "lng": 139.037079
+  },
+  {
+    "name": "新潟市民病院",
+    "address": "新潟県新潟市中央区鐘木463-7",
+    "core": false,
+    "regional": true,
+    "lat": 37.875706,
+    "lng": 139.041534
+  },
+  {
+    "name": "済生会新潟病院",
+    "address": "新潟県新潟市西区寺地280-7",
+    "core": false,
+    "regional": true,
+    "lat": 37.87907,
+    "lng": 139.004791
+  },
+  {
+    "name": "長岡赤十字病院",
+    "address": "新潟県長岡市寺島町297-1",
+    "core": false,
+    "regional": true,
+    "lat": 37.459534,
+    "lng": 138.837082
+  },
+  {
+    "name": "長岡中央綜合病院",
+    "address": "新潟県長岡市川崎町2041",
+    "core": false,
+    "regional": true,
+    "lat": 37.451756,
+    "lng": 138.877274
+  },
+  {
+    "name": "魚沼基幹病院",
+    "address": "新潟県南魚沼市浦佐4132",
+    "core": false,
+    "regional": true,
+    "lat": 37.167477,
+    "lng": 138.922089
+  },
+  {
+    "name": "新潟県立中央病院",
+    "address": "新潟県上越市新南町205",
+    "core": false,
+    "regional": true,
+    "lat": 37.106815,
+    "lng": 138.27066
+  },
+  {
+    "name": "黒部市民病院",
+    "address": "富山県黒部市三日市1108-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.871658,
+    "lng": 137.440918
+  },
+  {
+    "name": "富山大学附属病院",
+    "address": "富山県富山市杉谷2630",
+    "core": true,
+    "regional": false,
+    "lat": 36.679882,
+    "lng": 137.140549
+  },
+  {
+    "name": "富山県立中央病院",
+    "address": "富山県富山市西長江2丁目2-78",
+    "core": false,
+    "regional": true,
+    "lat": 36.692074,
+    "lng": 137.236526
+  },
+  {
+    "name": "富山市民病院",
+    "address": "富山県富山市今泉北部町2-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.672729,
+    "lng": 137.212448
+  },
+  {
+    "name": "富山赤十字病院",
+    "address": "富山県富山市牛島本町2丁目1-58",
+    "core": false,
+    "regional": true,
+    "lat": 36.707863,
+    "lng": 137.209213
+  },
+  {
+    "name": "厚生連高岡病院",
+    "address": "富山県高岡市永楽町5-10",
+    "core": false,
+    "regional": true,
+    "lat": 36.742962,
+    "lng": 136.995819
+  },
+  {
+    "name": "市立砺波総合病院",
+    "address": "富山県砺波市新富町1-61",
+    "core": false,
+    "regional": true,
+    "lat": 36.638878,
+    "lng": 136.951553
+  },
+  {
+    "name": "金沢大学附属病院",
+    "address": "石川県金沢市宝町13-1",
+    "core": true,
+    "regional": false,
+    "lat": 36.553947,
+    "lng": 136.674805
+  },
+  {
+    "name": "金沢医科大学病院",
+    "address": "石川県河北郡内灘町大学1-1",
+    "core": true,
+    "regional": false,
+    "lat": 36.657558,
+    "lng": 136.647263
+  },
+  {
+    "name": "石川県立中央病院",
+    "address": "石川県金沢市鞍月東2丁目1",
+    "core": false,
+    "regional": true,
+    "lat": 36.59539,
+    "lng": 136.628723
+  },
+  {
+    "name": "NHO金沢医療センター",
+    "address": "石川県金沢市下石引町1-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.559326,
+    "lng": 136.666214
+  },
+  {
+    "name": "福井大学医学部附属病院",
+    "address": "福井県吉田郡永平寺町松岡下合月23-3",
+    "core": true,
+    "regional": false,
+    "lat": 36.109547,
+    "lng": 136.292068
+  },
+  {
+    "name": "福井県立病院",
+    "address": "福井県福井市四ツ井2丁目8-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.067631,
+    "lng": 136.237732
+  },
+  {
+    "name": "福井赤十字病院",
+    "address": "福井県福井市月見2丁目4-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.046307,
+    "lng": 136.214508
+  },
+  {
+    "name": "福井県済生会病院",
+    "address": "福井県福井市和田中町舟橋7-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.047741,
+    "lng": 136.25264
+  },
+  {
+    "name": "福井愛育病院",
+    "address": "福井県福井市新保2丁目211",
+    "core": false,
+    "regional": true,
+    "lat": 36.080257,
+    "lng": 136.250259
+  },
+  {
+    "name": "市立敦賀病院",
+    "address": "福井県敦賀市三島町1丁目6-5",
+    "core": false,
+    "regional": true,
+    "lat": 35.652821,
+    "lng": 136.065216
+  },
+  {
+    "name": "山梨大学医学部附属病院",
+    "address": "山梨県中央市下河東1110",
+    "core": true,
+    "regional": false,
+    "lat": 35.6092,
+    "lng": 138.538177
+  },
+  {
+    "name": "市立甲府病院",
+    "address": "山梨県甲府市増坪町366",
+    "core": false,
+    "regional": true,
+    "lat": 35.634541,
+    "lng": 138.591187
+  },
+  {
+    "name": "NHO甲府病院",
+    "address": "山梨県甲府市天神町11-35",
+    "core": false,
+    "regional": true,
+    "lat": 35.677086,
+    "lng": 138.566742
+  },
+  {
+    "name": "山梨県立中央病院",
+    "address": "山梨県甲府市富士見1丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.670956,
+    "lng": 138.550201
+  },
+  {
+    "name": "甲府共立病院",
+    "address": "山梨県甲府市宝1丁目9-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.667183,
+    "lng": 138.564682
+  },
+  {
+    "name": "山梨赤十字病院",
+    "address": "山梨県南都留郡富士河口湖町船津6663-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.485401,
+    "lng": 138.76709
+  },
+  {
+    "name": "富士吉田市立病院",
+    "address": "山梨県富士吉田市上吉田東7丁目11-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.464405,
+    "lng": 138.806641
+  },
+  {
+    "name": "都留市立病院",
+    "address": "山梨県都留市つる5丁目1-55",
+    "core": false,
+    "regional": true,
+    "lat": 35.562576,
+    "lng": 138.903732
+  },
+  {
+    "name": "韮崎市立病院",
+    "address": "山梨県韮崎市本町3丁目5-3",
+    "core": false,
+    "regional": true,
+    "lat": 35.702206,
+    "lng": 138.457581
+  },
+  {
+    "name": "佐久総合病院佐久医療センター",
+    "address": "長野県佐久市中込3400",
+    "core": false,
+    "regional": true,
+    "lat": 36.252174,
+    "lng": 138.472397
+  },
+  {
+    "name": "信州上田医療センター",
+    "address": "長野県上田市緑が丘1丁目27-21",
+    "core": false,
+    "regional": true,
+    "lat": 36.412704,
+    "lng": 138.249985
+  },
+  {
+    "name": "諏訪赤十字病院",
+    "address": "長野県諏訪市湖岸通り5丁目11-50",
+    "core": false,
+    "regional": true,
+    "lat": 36.044132,
+    "lng": 138.106705
+  },
+  {
+    "name": "伊那中央病院",
+    "address": "長野県伊那市小四郎久保1313-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.855595,
+    "lng": 137.95491
+  },
+  {
+    "name": "飯田市立病院",
+    "address": "長野県飯田市八幡町515",
+    "core": false,
+    "regional": true,
+    "lat": 35.497406,
+    "lng": 137.833572
+  },
+  {
+    "name": "信州大学医学部附属病院",
+    "address": "長野県松本市旭3丁目1-1",
+    "core": true,
+    "regional": false,
+    "lat": 36.249428,
+    "lng": 137.978943
+  },
+  {
+    "name": "長野県立こども病院",
+    "address": "長野県安曇野市豊科5675",
+    "core": true,
+    "regional": false,
+    "lat": 36.302799,
+    "lng": 137.907684
+  },
+  {
+    "name": "まつもと医療センター",
+    "address": "長野県松本市村井町南2丁目20-30",
+    "core": false,
+    "regional": true,
+    "lat": 36.174309,
+    "lng": 137.963699
+  },
+  {
+    "name": "長野赤十字病院",
+    "address": "長野県長野市若里5丁目22-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.628452,
+    "lng": 138.189758
+  },
+  {
+    "name": "厚生連篠ノ井総合病院",
+    "address": "長野県長野市篠ノ井会666-1",
+    "core": false,
+    "regional": true,
+    "lat": 36.575462,
+    "lng": 138.149292
+  },
+  {
+    "name": "厚生連北信総合病院",
+    "address": "長野県中野市西1丁目5-63",
+    "core": false,
+    "regional": true,
+    "lat": 36.745975,
+    "lng": 138.366714
+  },
+  {
+    "name": "岐阜大学医学部附属病院",
+    "address": "岐阜県岐阜市柳戸1-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.46553,
+    "lng": 136.737625
+  },
+  {
+    "name": "岐阜県総合医療センター",
+    "address": "岐阜県岐阜市野一色4丁目6-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.410709,
+    "lng": 136.798447
+  },
+  {
+    "name": "NHO長良医療センター",
+    "address": "岐阜県岐阜市長良1300-7",
+    "core": true,
+    "regional": false,
+    "lat": 35.452057,
+    "lng": 136.788284
+  },
+  {
+    "name": "岐阜市民病院",
+    "address": "岐阜県岐阜市鹿島町7丁目1",
+    "core": false,
+    "regional": true,
+    "lat": 35.414124,
+    "lng": 136.73465
+  },
+  {
+    "name": "中濃厚生病院",
+    "address": "岐阜県関市若草通5丁目1",
+    "core": false,
+    "regional": true,
+    "lat": 35.494949,
+    "lng": 136.921417
+  },
+  {
+    "name": "木沢記念病院",
+    "address": "岐阜県美濃加茂市古井町下古井590",
+    "core": false,
+    "regional": true,
+    "lat": 35.44088,
+    "lng": 137.023407
+  },
+  {
+    "name": "大垣市民病院",
+    "address": "岐阜県大垣市南頬町4丁目86",
+    "core": true,
+    "regional": false,
+    "lat": 35.354099,
+    "lng": 136.622345
+  },
+  {
+    "name": "岐阜県立多治見病院",
+    "address": "岐阜県多治見市前畑町5丁目161",
+    "core": false,
+    "regional": true,
+    "lat": 35.327866,
+    "lng": 137.11116
+  },
+  {
+    "name": "中津川市民病院",
+    "address": "岐阜県中津川市駒場1522-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.489609,
+    "lng": 137.480988
+  },
+  {
+    "name": "高山赤十字病院",
+    "address": "岐阜県高山市天満町3丁目11",
+    "core": false,
+    "regional": true,
+    "lat": 36.137138,
+    "lng": 137.254578
+  },
+  {
+    "name": "順天堂大学医学部附属静岡病院",
+    "address": "静岡県伊豆の国市長岡1129",
+    "core": false,
+    "regional": true,
+    "lat": 35.027584,
+    "lng": 138.933502
+  },
+  {
+    "name": "沼津市立病院",
+    "address": "静岡県沼津市東椎路1111",
+    "core": false,
+    "regional": true,
+    "lat": 35.128609,
+    "lng": 138.837143
+  },
+  {
+    "name": "聖隷沼津病院",
+    "address": "静岡県沼津市本字千本1910",
+    "core": false,
+    "regional": true,
+    "lat": 35.096767,
+    "lng": 138.847366
+  },
+  {
+    "name": "NHO静岡医療センター",
+    "address": "静岡県駿東郡清水町長沢762-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.101177,
+    "lng": 138.888611
+  },
+  {
+    "name": "富士市立中央病院",
+    "address": "静岡県富士市蓼原127",
+    "core": false,
+    "regional": true,
+    "lat": 35.152634,
+    "lng": 138.661377
+  },
+  {
+    "name": "富士宮市立病院",
+    "address": "静岡県富士宮市若の宮町123",
+    "core": false,
+    "regional": true,
+    "lat": 35.230618,
+    "lng": 138.615738
+  },
+  {
+    "name": "静岡県立こども病院",
+    "address": "静岡県静岡市葵区漆山860",
+    "core": true,
+    "regional": false,
+    "lat": 35.019833,
+    "lng": 138.397552
+  },
+  {
+    "name": "静岡市立静岡病院",
+    "address": "静岡県静岡市葵区追手町10-93",
+    "core": false,
+    "regional": true,
+    "lat": 34.978371,
+    "lng": 138.380447
+  },
+  {
+    "name": "静岡済生会病院",
+    "address": "静岡県静岡市駿河区小鹿1丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.975925,
+    "lng": 138.412262
+  },
+  {
+    "name": "静岡市立清水病院",
+    "address": "静岡県静岡市清水区宮加三1231",
+    "core": true,
+    "regional": false,
+    "lat": 34.98233,
+    "lng": 138.489685
+  },
+  {
+    "name": "焼津市立病院",
+    "address": "静岡県焼津市道原1000",
+    "core": false,
+    "regional": true,
+    "lat": 34.837288,
+    "lng": 138.306061
+  },
+  {
+    "name": "藤枝市立病院",
+    "address": "静岡県藤枝市駿河台4丁目1-11",
+    "core": false,
+    "regional": true,
+    "lat": 34.861412,
+    "lng": 138.229004
+  },
+  {
+    "name": "磐田市立病院",
+    "address": "静岡県磐田市大久保512-3",
+    "core": false,
+    "regional": true,
+    "lat": 34.76865,
+    "lng": 137.856552
+  },
+  {
+    "name": "中東遠総合医療センター",
+    "address": "静岡県掛川市菖蒲ヶ谷1-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.758381,
+    "lng": 137.999451
+  },
+  {
+    "name": "浜松医科大学附属病院",
+    "address": "静岡県浜松市中央区半田山1丁目20-1",
+    "core": true,
+    "regional": false,
+    "lat": 34.76965,
+    "lng": 137.74408
+  },
+  {
+    "name": "聖隷浜松病院",
+    "address": "静岡県浜松市中央区住吉2丁目12-12",
+    "core": false,
+    "regional": true,
+    "lat": 34.73016,
+    "lng": 137.725006
+  },
+  {
+    "name": "聖隷三方原病院",
+    "address": "静岡県浜松市中央区三方原町3453",
+    "core": false,
+    "regional": true,
+    "lat": 34.791798,
+    "lng": 137.689636
+  },
+  {
+    "name": "浜松医療センター",
+    "address": "静岡県浜松市中央区富塚町328",
+    "core": false,
+    "regional": true,
+    "lat": 34.71661,
+    "lng": 137.701462
+  },
+  {
+    "name": "JA静岡厚生連遠州病院",
+    "address": "静岡県浜松市中央区中央1丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.713219,
+    "lng": 137.734238
+  },
+  {
+    "name": "JA海南病院",
+    "address": "愛知県弥富市前ケ須町南本田396",
+    "core": true,
+    "regional": false,
+    "lat": 35.108414,
+    "lng": 136.723114
+  },
+  {
+    "name": "藤田医科大学病院",
+    "address": "愛知県豊明市沓掛町田楽ヶ窪1-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.070999,
+    "lng": 137.001389
+  },
+  {
+    "name": "愛知医科大学病院",
+    "address": "愛知県長久手市岩作雁又1-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.19241,
+    "lng": 137.048386
+  },
+  {
+    "name": "公立陶生病院",
+    "address": "愛知県瀬戸市西追分町160",
+    "core": false,
+    "regional": true,
+    "lat": 35.225632,
+    "lng": 137.082642
+  },
+  {
+    "name": "総合大雄会病院",
+    "address": "愛知県一宮市桜1丁目9-9",
+    "core": false,
+    "regional": true,
+    "lat": 35.306122,
+    "lng": 136.80658
+  },
+  {
+    "name": "一宮市立市民病院",
+    "address": "愛知県一宮市文京2丁目2-22",
+    "core": false,
+    "regional": true,
+    "lat": 35.312656,
+    "lng": 136.806808
+  },
+  {
+    "name": "江南厚生病院",
+    "address": "愛知県江南市高屋町大松原137",
+    "core": false,
+    "regional": true,
+    "lat": 35.355091,
+    "lng": 136.877869
+  },
+  {
+    "name": "小牧市民病院",
+    "address": "愛知県小牧市常普請1丁目20",
+    "core": false,
+    "regional": true,
+    "lat": 35.287514,
+    "lng": 136.917191
+  },
+  {
+    "name": "あいち小児保健医療総合センター",
+    "address": "愛知県大府市森岡町7丁目426",
+    "core": true,
+    "regional": false,
+    "lat": 35.001106,
+    "lng": 136.955276
+  },
+  {
+    "name": "半田市立半田病院",
+    "address": "愛知県半田市東洋町2丁目29",
+    "core": false,
+    "regional": true,
+    "lat": 34.892151,
+    "lng": 136.938858
+  },
+  {
+    "name": "豊田厚生病院",
+    "address": "愛知県豊田市浄水町伊保原500-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.119995,
+    "lng": 137.134598
+  },
+  {
+    "name": "トヨタ記念病院",
+    "address": "愛知県豊田市平和町1丁目1",
+    "core": false,
+    "regional": true,
+    "lat": 35.057915,
+    "lng": 137.177521
+  },
+  {
+    "name": "安城更生病院",
+    "address": "愛知県安城市安城町河野163",
+    "core": false,
+    "regional": true,
+    "lat": 34.942558,
+    "lng": 137.089752
+  },
+  {
+    "name": "岡崎市民病院",
+    "address": "愛知県岡崎市若松町字丸山2-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.91338,
+    "lng": 137.16153
+  },
+  {
+    "name": "刈谷豊田病院",
+    "address": "愛知県刈谷市住吉町5丁目15",
+    "core": false,
+    "regional": true,
+    "lat": 34.983463,
+    "lng": 137.005905
+  },
+  {
+    "name": "豊橋市民病院",
+    "address": "愛知県豊橋市青竹町字八間西50",
+    "core": false,
+    "regional": true,
+    "lat": 34.760651,
+    "lng": 137.348907
+  },
+  {
+    "name": "豊川市民病院",
+    "address": "愛知県豊川市光明町1丁目19",
+    "core": false,
+    "regional": true,
+    "lat": 34.815441,
+    "lng": 137.373489
+  },
+  {
+    "name": "名古屋大学医学部附属病院",
+    "address": "愛知県名古屋市昭和区鶴舞町65",
+    "core": true,
+    "regional": false,
+    "lat": 35.157745,
+    "lng": 136.921539
+  },
+  {
+    "name": "名古屋市立大学病院",
+    "address": "愛知県名古屋市瑞穂区瑞穂町字川澄1",
+    "core": true,
+    "regional": false,
+    "lat": 35.139385,
+    "lng": 136.935196
+  },
+  {
+    "name": "名古屋第一赤十字病院",
+    "address": "愛知県名古屋市中村区道下町3丁目35",
+    "core": false,
+    "regional": true,
+    "lat": 35.17149,
+    "lng": 136.862427
+  },
+  {
+    "name": "名古屋第二赤十字病院",
+    "address": "愛知県名古屋市昭和区妙見町2-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.145416,
+    "lng": 136.965668
+  },
+  {
+    "name": "中部労災病院",
+    "address": "愛知県名古屋市港区港明1丁目10-6",
+    "core": false,
+    "regional": true,
+    "lat": 35.1077,
+    "lng": 136.890533
+  },
+  {
+    "name": "名鉄病院",
+    "address": "愛知県名古屋市西区栄生2丁目22-29",
+    "core": false,
+    "regional": true,
+    "lat": 35.186707,
+    "lng": 136.871948
+  },
+  {
+    "name": "名古屋市立東部病院",
+    "address": "愛知県名古屋市千種区若水1丁目2-23",
+    "core": false,
+    "regional": true,
+    "lat": 35.173485,
+    "lng": 136.943542
+  },
+  {
+    "name": "名城病院",
+    "address": "愛知県名古屋市中区三の丸1丁目3-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.18074,
+    "lng": 136.899673
+  },
+  {
+    "name": "NHO名古屋医療センター",
+    "address": "愛知県名古屋市中区三の丸4丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.183846,
+    "lng": 136.90593
+  },
+  {
+    "name": "藤田医科大学ばんたね病院",
+    "address": "愛知県名古屋市中川区尾頭橋3丁目6-10",
+    "core": false,
+    "regional": true,
+    "lat": 35.14431,
+    "lng": 136.891235
+  },
+  {
+    "name": "名古屋記念病院",
+    "address": "愛知県名古屋市天白区平針2丁目101",
+    "core": false,
+    "regional": true,
+    "lat": 35.125816,
+    "lng": 137.004822
+  },
+  {
+    "name": "JCHO中京病院",
+    "address": "愛知県名古屋市南区三条1丁目1-10",
+    "core": false,
+    "regional": true,
+    "lat": 35.109692,
+    "lng": 136.902359
+  },
+  {
+    "name": "大同病院",
+    "address": "愛知県名古屋市南区白水町9",
+    "core": false,
+    "regional": true,
+    "lat": 35.07468,
+    "lng": 136.907043
+  },
+  {
+    "name": "みなと医療生活協同組合協立病院",
+    "address": "愛知県名古屋市港区港明1丁目10-12",
+    "core": false,
+    "regional": true,
+    "lat": 35.106922,
+    "lng": 136.88829
+  },
+  {
+    "name": "名古屋市立西部医療センター",
+    "address": "愛知県名古屋市北区平手町1丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.202358,
+    "lng": 136.90184
+  },
+  {
+    "name": "名古屋掖済会病院",
+    "address": "愛知県名古屋市中川区松年町4丁目66",
+    "core": false,
+    "regional": true,
+    "lat": 35.119919,
+    "lng": 136.873505
+  },
+  {
+    "name": "市立四日市病院",
+    "address": "三重県四日市市芝田2丁目2-37",
+    "core": false,
+    "regional": true,
+    "lat": 34.972477,
+    "lng": 136.608017
+  },
+  {
+    "name": "三重県立総合病院",
+    "address": "三重県四日市市日永5450-132",
+    "core": false,
+    "regional": true,
+    "lat": 34.941895,
+    "lng": 136.587097
+  },
+  {
+    "name": "桑名市総合医療センター",
+    "address": "三重県桑名市寿町3丁目11",
+    "core": false,
+    "regional": true,
+    "lat": 35.065289,
+    "lng": 136.687286
+  },
+  {
+    "name": "三重大学医学部附属病院",
+    "address": "三重県津市江戸橋2丁目174",
+    "core": true,
+    "regional": false,
+    "lat": 34.742409,
+    "lng": 136.522507
+  },
+  {
+    "name": "NHO三重中央医療センター",
+    "address": "三重県津市久居明神町596",
+    "core": true,
+    "regional": false,
+    "lat": 34.689285,
+    "lng": 136.468491
+  },
+  {
+    "name": "NHO三重病院",
+    "address": "三重県津市大里窪田町357",
+    "core": true,
+    "regional": false,
+    "lat": 34.770546,
+    "lng": 136.479279
+  },
+  {
+    "name": "岡波病院",
+    "address": "三重県伊賀市上野桑町1734",
+    "core": false,
+    "regional": true,
+    "lat": 34.757778,
+    "lng": 136.135986
+  },
+  {
+    "name": "名張市立病院",
+    "address": "三重県名張市百合が丘西1番町178",
+    "core": false,
+    "regional": true,
+    "lat": 34.608704,
+    "lng": 136.097748
+  },
+  {
+    "name": "松阪中央総合病院",
+    "address": "三重県松阪市川井町102",
+    "core": false,
+    "regional": true,
+    "lat": 34.581577,
+    "lng": 136.516266
+  },
+  {
+    "name": "伊勢赤十字病院",
+    "address": "三重県伊勢市船江1丁目471-2",
+    "core": false,
+    "regional": true,
+    "lat": 34.499809,
+    "lng": 136.713074
+  },
+  {
+    "name": "滋賀医科大学医学部附属病院",
+    "address": "滋賀県大津市瀬田月輪町",
+    "core": true,
+    "regional": false,
+    "lat": 34.974438,
+    "lng": 135.946915
+  },
+  {
+    "name": "大津赤十字病院",
+    "address": "滋賀県大津市長等1丁目1-35",
+    "core": false,
+    "regional": true,
+    "lat": 35.007576,
+    "lng": 135.859512
+  },
+  {
+    "name": "済生会滋賀県病院",
+    "address": "滋賀県栗東市大橋2丁目4-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.033474,
+    "lng": 136.001404
+  },
+  {
+    "name": "近江八幡市立病院",
+    "address": "滋賀県近江八幡市土田町1379",
+    "core": false,
+    "regional": true,
+    "lat": 35.123989,
+    "lng": 136.087204
+  },
+  {
+    "name": "長浜赤十字病院",
+    "address": "滋賀県長浜市宮前町14-7",
+    "core": false,
+    "regional": true,
+    "lat": 35.383327,
+    "lng": 136.272797
+  },
+  {
+    "name": "京都府立医科大学北部病院",
+    "address": "京都府与謝郡与謝野町字男山481",
+    "core": false,
+    "regional": true,
+    "lat": 35.570751,
+    "lng": 135.165894
+  },
+  {
+    "name": "NHO舞鶴医療センター",
+    "address": "京都府舞鶴市字行永2410",
+    "core": false,
+    "regional": true,
+    "lat": 35.461555,
+    "lng": 135.401459
+  },
+  {
+    "name": "市立福知山市民病院",
+    "address": "京都府福知山市厚中町81",
+    "core": false,
+    "regional": true,
+    "lat": 35.305096,
+    "lng": 135.109909
+  },
+  {
+    "name": "京都中部総合医療センター",
+    "address": "京都府南丹市八木町八木上野25",
+    "core": false,
+    "regional": true,
+    "lat": 35.071217,
+    "lng": 135.530441
+  },
+  {
+    "name": "京都大学医学部附属病院",
+    "address": "京都府京都市左京区聖護院川原町54",
+    "core": true,
+    "regional": false,
+    "lat": 35.020184,
+    "lng": 135.777176
+  },
+  {
+    "name": "京都府立医科大学附属病院",
+    "address": "京都府京都市上京区河原町通広小路上る梶井町465",
+    "core": true,
+    "regional": false,
+    "lat": 35.029552,
+    "lng": 135.756714
+  },
+  {
+    "name": "京都第一赤十字病院",
+    "address": "京都府京都市東山区本町15丁目749",
+    "core": false,
+    "regional": true,
+    "lat": 34.980305,
+    "lng": 135.772827
+  },
+  {
+    "name": "京都第二赤十字病院",
+    "address": "京都府京都市上京区釜座通丸太町上る春帯町355-5",
+    "core": false,
+    "regional": true,
+    "lat": 35.029552,
+    "lng": 135.756714
+  },
+  {
+    "name": "日本バプテスト病院",
+    "address": "京都府京都市左京区北白川山ノ元町47",
+    "core": false,
+    "regional": true,
+    "lat": 35.033455,
+    "lng": 135.795746
+  },
+  {
+    "name": "洛和会音羽病院",
+    "address": "京都府京都市山科区音羽珍事町2",
+    "core": false,
+    "regional": true,
+    "lat": 34.987526,
+    "lng": 135.829788
+  },
+  {
+    "name": "京都桂病院",
+    "address": "京都府京都市西京区山田平尾町17",
+    "core": false,
+    "regional": true,
+    "lat": 34.982143,
+    "lng": 135.686646
+  },
+  {
+    "name": "京都市立病院",
+    "address": "京都府京都市中京区壬生東高田町1-2",
+    "core": false,
+    "regional": true,
+    "lat": 34.997562,
+    "lng": 135.73465
+  },
+  {
+    "name": "NHO京都医療センター",
+    "address": "京都府京都市伏見区深草向畑町1-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.953758,
+    "lng": 135.773926
+  },
+  {
+    "name": "武田病院",
+    "address": "京都府京都市下京区塩小路通西洞院東入東塩小路町190",
+    "core": false,
+    "regional": true,
+    "lat": 35.011669,
+    "lng": 135.768112
+  },
+  {
+    "name": "宇治徳洲会病院",
+    "address": "京都府宇治市槇島町石橋145",
+    "core": false,
+    "regional": true,
+    "lat": 34.901794,
+    "lng": 135.785721
+  },
+  {
+    "name": "田辺中央病院",
+    "address": "京都府京田辺市田辺中央6丁目1-6",
+    "core": false,
+    "regional": true,
+    "lat": 34.822075,
+    "lng": 135.771851
+  },
+  {
+    "name": "京都山城総合病院",
+    "address": "京都府木津川市木津駅前1丁目27",
+    "core": false,
+    "regional": true,
+    "lat": 34.736141,
+    "lng": 135.824203
+  },
+  {
+    "name": "大阪大学医学部附属病院",
+    "address": "大阪府吹田市山田丘2-15",
+    "core": true,
+    "regional": false,
+    "lat": 34.81937,
+    "lng": 135.527527
+  },
+  {
+    "name": "済生会吹田病院",
+    "address": "大阪府吹田市川園町1-2",
+    "core": false,
+    "regional": true,
+    "lat": 34.7616,
+    "lng": 135.534607
+  },
+  {
+    "name": "市立吹田市民病院",
+    "address": "大阪府吹田市岸部新町5-7",
+    "core": false,
+    "regional": true,
+    "lat": 34.77626,
+    "lng": 135.537354
+  },
+  {
+    "name": "市立豊中病院",
+    "address": "大阪府豊中市柴原町4丁目14-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.802406,
+    "lng": 135.458038
+  },
+  {
+    "name": "箕面市立病院",
+    "address": "大阪府箕面市萱野5丁目7-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.823154,
+    "lng": 135.483505
+  },
+  {
+    "name": "大阪医科大学附属病院",
+    "address": "大阪府高槻市大学町2-7",
+    "core": true,
+    "regional": false,
+    "lat": 34.85228,
+    "lng": 135.62471
+  },
+  {
+    "name": "高槻病院",
+    "address": "大阪府高槻市古曽部町1丁目3-13",
+    "core": false,
+    "regional": true,
+    "lat": 34.856304,
+    "lng": 135.620529
+  },
+  {
+    "name": "済生会茨木病院",
+    "address": "大阪府茨木市見付山2丁目1-45",
+    "core": false,
+    "regional": true,
+    "lat": 34.820595,
+    "lng": 135.556686
+  },
+  {
+    "name": "関西医科大学附属病院",
+    "address": "大阪府枚方市新町2丁目3-1",
+    "core": true,
+    "regional": false,
+    "lat": 34.817467,
+    "lng": 135.64505
+  },
+  {
+    "name": "松下記念病院",
+    "address": "大阪府守口市外島町5-55",
+    "core": false,
+    "regional": true,
+    "lat": 34.743439,
+    "lng": 135.563538
+  },
+  {
+    "name": "関西医科大学総合医療センター",
+    "address": "大阪府守口市文園町10-15",
+    "core": false,
+    "regional": true,
+    "lat": 34.72834,
+    "lng": 135.556442
+  },
+  {
+    "name": "市立ひらかた病院",
+    "address": "大阪府枚方市禁野本町2丁目14-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.819572,
+    "lng": 135.6577
+  },
+  {
+    "name": "河内総合病院",
+    "address": "大阪府東大阪市横枕1-31",
+    "core": false,
+    "regional": true,
+    "lat": 34.679153,
+    "lng": 135.608276
+  },
+  {
+    "name": "市立東大阪医療センター",
+    "address": "大阪府東大阪市西岩田3丁目4-5",
+    "core": false,
+    "regional": true,
+    "lat": 34.666241,
+    "lng": 135.597641
+  },
+  {
+    "name": "八尾市立病院",
+    "address": "大阪府八尾市龍華町1丁目3-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.620766,
+    "lng": 135.587952
+  },
+  {
+    "name": "近畿大学病院",
+    "address": "大阪府大阪狭山市大野東377-2",
+    "core": true,
+    "regional": false,
+    "lat": 34.475994,
+    "lng": 135.550369
+  },
+  {
+    "name": "PL病院",
+    "address": "大阪府富田林市新堂2204",
+    "core": false,
+    "regional": true,
+    "lat": 34.512039,
+    "lng": 135.589111
+  },
+  {
+    "name": "耳原総合病院",
+    "address": "大阪府堺市堺区協和町4丁465",
+    "core": false,
+    "regional": true,
+    "lat": 34.561203,
+    "lng": 135.47023
+  },
+  {
+    "name": "大阪労災病院",
+    "address": "大阪府堺市北区長曽根町1179-3",
+    "core": false,
+    "regional": true,
+    "lat": 34.57233,
+    "lng": 135.504929
+  },
+  {
+    "name": "ベルランド総合病院",
+    "address": "大阪府堺市中区東山500-3",
+    "core": false,
+    "regional": true,
+    "lat": 34.517414,
+    "lng": 135.508102
+  },
+  {
+    "name": "堺市立総合医療センター",
+    "address": "大阪府堺市西区家原寺町1丁1-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.537155,
+    "lng": 135.473618
+  },
+  {
+    "name": "大阪母子医療センター",
+    "address": "大阪府和泉市室堂町840",
+    "core": true,
+    "regional": false,
+    "lat": 34.471191,
+    "lng": 135.473969
+  },
+  {
+    "name": "岸和田市民病院",
+    "address": "大阪府岸和田市額原町1001",
+    "core": false,
+    "regional": true,
+    "lat": 34.46122,
+    "lng": 135.395996
+  },
+  {
+    "name": "りんくう総医療センター",
+    "address": "大阪府泉佐野市りんくう往来北2-23",
+    "core": false,
+    "regional": true,
+    "lat": 34.411983,
+    "lng": 135.302505
+  },
+  {
+    "name": "和泉市立総合医療センター",
+    "address": "大阪府和泉市和気町4丁目5-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.478363,
+    "lng": 135.428711
+  },
+  {
+    "name": "大阪市立大学医学部附属病院",
+    "address": "大阪府大阪市阿倍野区旭町1丁目5-7",
+    "core": true,
+    "regional": false,
+    "lat": 34.646706,
+    "lng": 135.509384
+  },
+  {
+    "name": "大阪市立総合病院",
+    "address": "大阪府大阪市都島区都島本通2丁目13-22",
+    "core": true,
+    "regional": false,
+    "lat": 34.708454,
+    "lng": 135.523514
+  },
+  {
+    "name": "中野こども病院",
+    "address": "大阪府大阪市旭区新森4丁目10-13",
+    "core": false,
+    "regional": true,
+    "lat": 34.716549,
+    "lng": 135.558411
+  },
+  {
+    "name": "大阪急性期・総合医療センター",
+    "address": "大阪府大阪市住吉区万代東3丁目1-56",
+    "core": false,
+    "regional": true,
+    "lat": 34.616692,
+    "lng": 135.503952
+  },
+  {
+    "name": "大阪赤十字病院",
+    "address": "大阪府大阪市天王寺区筆ケ崎町5-30",
+    "core": false,
+    "regional": true,
+    "lat": 34.664013,
+    "lng": 135.525162
+  },
+  {
+    "name": "JCHO大阪病院",
+    "address": "大阪府大阪市福島区福島4丁目2-78",
+    "core": false,
+    "regional": true,
+    "lat": 34.691696,
+    "lng": 135.483994
+  },
+  {
+    "name": "淀川キリスト教病院",
+    "address": "大阪府大阪市東淀川区柴島1丁目7-50",
+    "core": false,
+    "regional": true,
+    "lat": 34.730728,
+    "lng": 135.512344
+  },
+  {
+    "name": "大阪府済生会中津病院",
+    "address": "大阪府大阪市北区芝田2丁目2-13",
+    "core": false,
+    "regional": true,
+    "lat": 34.70586,
+    "lng": 135.495804
+  },
+  {
+    "name": "北野病院",
+    "address": "大阪府大阪市北区扇町2丁目4-20",
+    "core": false,
+    "regional": true,
+    "lat": 34.705494,
+    "lng": 135.506256
+  },
+  {
+    "name": "愛染橋病院",
+    "address": "大阪府大阪市浪速区日本橋5丁目16-15",
+    "core": false,
+    "regional": true,
+    "lat": 34.657345,
+    "lng": 135.505142
+  },
+  {
+    "name": "神戸大学医学部附属病院",
+    "address": "兵庫県神戸市中央区楠町7丁目5-2",
+    "core": true,
+    "regional": false,
+    "lat": 34.685452,
+    "lng": 135.171051
+  },
+  {
+    "name": "兵庫県立こども病院",
+    "address": "兵庫県神戸市中央区港島南町1丁目6-7",
+    "core": true,
+    "regional": false,
+    "lat": 34.66172,
+    "lng": 135.217178
+  },
+  {
+    "name": "神戸市立西神戸医療センター",
+    "address": "兵庫県神戸市西区糀台5丁目7-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.716888,
+    "lng": 135.018921
+  },
+  {
+    "name": "神戸市立医療センター中央市民病院",
+    "address": "兵庫県神戸市中央区港島南町2丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.6586,
+    "lng": 135.21521
+  },
+  {
+    "name": "甲南医療センター",
+    "address": "兵庫県神戸市東灘区鴨子ケ原1丁目5-16",
+    "core": false,
+    "regional": true,
+    "lat": 34.729336,
+    "lng": 135.252197
+  },
+  {
+    "name": "済生会兵庫県病院",
+    "address": "兵庫県神戸市北区藤原台中町5丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.823196,
+    "lng": 135.214981
+  },
+  {
+    "name": "加古川中央市民病院",
+    "address": "兵庫県加古川市加古川町本町439",
+    "core": false,
+    "regional": true,
+    "lat": 34.770302,
+    "lng": 134.828552
+  },
+  {
+    "name": "北播磨総合医療センター",
+    "address": "兵庫県小野市市場町926-250",
+    "core": false,
+    "regional": true,
+    "lat": 34.831421,
+    "lng": 134.944366
+  },
+  {
+    "name": "公立豊岡病院",
+    "address": "兵庫県豊岡市戸牧1094",
+    "core": false,
+    "regional": true,
+    "lat": 35.522156,
+    "lng": 134.800522
+  },
+  {
+    "name": "兵庫県立丹波医療センター",
+    "address": "兵庫県丹波市氷上町石生2002-7",
+    "core": false,
+    "regional": true,
+    "lat": 35.147713,
+    "lng": 135.055634
+  },
+  {
+    "name": "兵庫県立淡路医療センター",
+    "address": "兵庫県洲本市塩屋1丁目1-137",
+    "core": false,
+    "regional": true,
+    "lat": 34.34618,
+    "lng": 134.896713
+  },
+  {
+    "name": "兵庫医科大学病院",
+    "address": "兵庫県西宮市武庫川町1-1",
+    "core": true,
+    "regional": false,
+    "lat": 34.719002,
+    "lng": 135.378647
+  },
+  {
+    "name": "兵庫県立尼崎総合医療センター",
+    "address": "兵庫県尼崎市東難波町2丁目17-77",
+    "core": true,
+    "regional": false,
+    "lat": 34.730434,
+    "lng": 135.412354
+  },
+  {
+    "name": "市立伊丹病院",
+    "address": "兵庫県伊丹市昆陽池1丁目100",
+    "core": false,
+    "regional": true,
+    "lat": 34.783733,
+    "lng": 135.396973
+  },
+  {
+    "name": "姫路赤十字病院",
+    "address": "兵庫県姫路市下手野1丁目12-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.843102,
+    "lng": 134.646088
+  },
+  {
+    "name": "奈良県総合医療センター",
+    "address": "奈良県奈良市七条西町2丁目897-5",
+    "core": false,
+    "regional": true,
+    "lat": 34.663071,
+    "lng": 135.769989
+  },
+  {
+    "name": "天理よろづ相談所病院",
+    "address": "奈良県天理市三島町200",
+    "core": false,
+    "regional": true,
+    "lat": 34.602386,
+    "lng": 135.838791
+  },
+  {
+    "name": "奈良県立医科大学附属病院",
+    "address": "奈良県橿原市四条町840",
+    "core": true,
+    "regional": false,
+    "lat": 34.503887,
+    "lng": 135.792542
+  },
+  {
+    "name": "和歌山県立医科大学附属病院",
+    "address": "和歌山県和歌山市紀三井寺811-1",
+    "core": true,
+    "regional": false,
+    "lat": 34.187664,
+    "lng": 135.181717
+  },
+  {
+    "name": "日赤和歌山病院",
+    "address": "和歌山県和歌山市小松原通4丁目20",
+    "core": false,
+    "regional": true,
+    "lat": 34.220352,
+    "lng": 135.168732
+  },
+  {
+    "name": "紀南病院",
+    "address": "和歌山県田辺市新庄町4667",
+    "core": false,
+    "regional": true,
+    "lat": 33.709778,
+    "lng": 135.401535
+  },
+  {
+    "name": "鳥取県立中央病院",
+    "address": "鳥取県鳥取市江津730",
+    "core": false,
+    "regional": true,
+    "lat": 35.522636,
+    "lng": 134.211868
+  },
+  {
+    "name": "鳥取県立厚生病院",
+    "address": "鳥取県倉吉市東昭和町150",
+    "core": false,
+    "regional": true,
+    "lat": 35.436028,
+    "lng": 133.840607
+  },
+  {
+    "name": "鳥取大学医学部附属病院",
+    "address": "鳥取県米子市西町36-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.428909,
+    "lng": 133.324478
+  },
+  {
+    "name": "松江市立病院",
+    "address": "島根県松江市乃白町32-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.438145,
+    "lng": 133.055634
+  },
+  {
+    "name": "松江赤十字病院",
+    "address": "島根県松江市母衣町200",
+    "core": false,
+    "regional": true,
+    "lat": 35.470592,
+    "lng": 133.057068
+  },
+  {
+    "name": "島根大学医学部附属病院",
+    "address": "島根県出雲市塩冶町89-1",
+    "core": true,
+    "regional": false,
+    "lat": 35.347454,
+    "lng": 132.752869
+  },
+  {
+    "name": "島根県立中央病院",
+    "address": "島根県出雲市姫原4丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 35.375057,
+    "lng": 132.754318
+  },
+  {
+    "name": "NHO浜田医療センター",
+    "address": "島根県浜田市浅井町777-12",
+    "core": false,
+    "regional": true,
+    "lat": 34.903252,
+    "lng": 132.087799
+  },
+  {
+    "name": "益田赤十字病院",
+    "address": "島根県益田市乙吉町イ103-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.683659,
+    "lng": 131.841537
+  },
+  {
+    "name": "岡山大学病院",
+    "address": "岡山県岡山市北区鹿田町2丁目5-1",
+    "core": true,
+    "regional": false,
+    "lat": 34.65099,
+    "lng": 133.920837
+  },
+  {
+    "name": "岡山赤十字病院",
+    "address": "岡山県岡山市北区青江2丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.635818,
+    "lng": 133.922943
+  },
+  {
+    "name": "NHO岡山医療センター",
+    "address": "岡山県岡山市北区田益1711-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.708179,
+    "lng": 133.899582
+  },
+  {
+    "name": "川崎医科大学病院",
+    "address": "岡山県倉敷市松島577",
+    "core": true,
+    "regional": false,
+    "lat": 34.631077,
+    "lng": 133.809937
+  },
+  {
+    "name": "倉敷中央病院",
+    "address": "岡山県倉敷市鶴形1丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.600754,
+    "lng": 133.769379
+  },
+  {
+    "name": "津山中央病院",
+    "address": "岡山県津山市川崎1756",
+    "core": false,
+    "regional": true,
+    "lat": 35.06432,
+    "lng": 134.03743
+  },
+  {
+    "name": "広島大学病院",
+    "address": "広島県広島市南区霞1丁目2-3",
+    "core": true,
+    "regional": false,
+    "lat": 34.380127,
+    "lng": 132.477371
+  },
+  {
+    "name": "広島市民病院",
+    "address": "広島県広島市中区基町7-33",
+    "core": false,
+    "regional": true,
+    "lat": 34.397812,
+    "lng": 132.458832
+  },
+  {
+    "name": "舟入市民病院",
+    "address": "広島県広島市中区舟入幸町14-11",
+    "core": false,
+    "regional": true,
+    "lat": 34.385284,
+    "lng": 132.439651
+  },
+  {
+    "name": "県立広島病院",
+    "address": "広島県広島市南区宇品神田1丁目5-54",
+    "core": false,
+    "regional": true,
+    "lat": 34.367886,
+    "lng": 132.465866
+  },
+  {
+    "name": "NHO呉医療センター中国がんセンター",
+    "address": "広島県呉市青山町3-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.238857,
+    "lng": 132.565506
+  },
+  {
+    "name": "中国労災病院",
+    "address": "広島県呉市広多賀谷1丁目5-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.230743,
+    "lng": 132.613968
+  },
+  {
+    "name": "NHO東広島病院",
+    "address": "広島県東広島市西条町寺家513",
+    "core": false,
+    "regional": true,
+    "lat": 34.448132,
+    "lng": 132.723938
+  },
+  {
+    "name": "JA尾道総合病院",
+    "address": "広島県尾道市古浜町7-19",
+    "core": false,
+    "regional": true,
+    "lat": 34.399212,
+    "lng": 133.173553
+  },
+  {
+    "name": "NHO福山医療センター",
+    "address": "広島県福山市沖野上町4丁目14-17",
+    "core": false,
+    "regional": true,
+    "lat": 34.470394,
+    "lng": 133.371292
+  },
+  {
+    "name": "市立三次中央病院",
+    "address": "広島県三次市十日市東4丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.803757,
+    "lng": 132.858521
+  },
+  {
+    "name": "NHO岩国医療センター",
+    "address": "山口県岩国市愛宕町1丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.143982,
+    "lng": 132.203644
+  },
+  {
+    "name": "JCHO徳山中央病院",
+    "address": "山口県周南市孝田町1-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.047676,
+    "lng": 131.83287
+  },
+  {
+    "name": "山口県立総合病院",
+    "address": "山口県防府市大字向島77",
+    "core": false,
+    "regional": true,
+    "lat": 34.00985,
+    "lng": 131.569427
+  },
+  {
+    "name": "山口赤十字病院",
+    "address": "山口県山口市八幡馬場53-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.184959,
+    "lng": 131.482346
+  },
+  {
+    "name": "山口大学医学部附属病院",
+    "address": "山口県宇部市南小串1丁目1-1",
+    "core": true,
+    "regional": false,
+    "lat": 33.959908,
+    "lng": 131.248962
+  },
+  {
+    "name": "済生会下関病院",
+    "address": "山口県下関市安岡町8丁目5-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.031532,
+    "lng": 130.930984
+  },
+  {
+    "name": "徳島大学病院",
+    "address": "徳島県徳島市蔵本町2丁目50-1",
+    "core": true,
+    "regional": false,
+    "lat": 34.07518,
+    "lng": 134.518417
+  },
+  {
+    "name": "徳島県立中央病院",
+    "address": "徳島県徳島市蔵本町1丁目10-3",
+    "core": false,
+    "regional": true,
+    "lat": 34.076641,
+    "lng": 134.519958
+  },
+  {
+    "name": "徳島赤十字病院",
+    "address": "徳島県小松島市小松島町字井利ノ口103",
+    "core": false,
+    "regional": true,
+    "lat": 34.012112,
+    "lng": 134.583252
+  },
+  {
+    "name": "香川大学医学部附属病院",
+    "address": "香川県木田郡三木町大字池戸1750-1",
+    "core": true,
+    "regional": false,
+    "lat": 34.293594,
+    "lng": 134.121765
+  },
+  {
+    "name": "高松赤十字病院",
+    "address": "香川県高松市番町4丁目1-3",
+    "core": false,
+    "regional": true,
+    "lat": 34.340801,
+    "lng": 134.044464
+  },
+  {
+    "name": "香川県立中央病院",
+    "address": "香川県高松市朝日町1丁目2-1",
+    "core": false,
+    "regional": true,
+    "lat": 34.348068,
+    "lng": 134.061371
+  },
+  {
+    "name": "NHO四国こどもとおとなの医療センター",
+    "address": "香川県善通寺市仙遊町2丁目1-1",
+    "core": true,
+    "regional": false,
+    "lat": 34.228912,
+    "lng": 133.771484
+  },
+  {
+    "name": "愛媛県立新居浜病院",
+    "address": "愛媛県新居浜市本郷3丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 33.932789,
+    "lng": 133.280045
+  },
+  {
+    "name": "愛媛県立今治病院",
+    "address": "愛媛県今治市石井町4丁目5-5",
+    "core": false,
+    "regional": true,
+    "lat": 34.085499,
+    "lng": 132.988266
+  },
+  {
+    "name": "愛媛大学医学部附属病院",
+    "address": "愛媛県東温市志津川454",
+    "core": true,
+    "regional": false,
+    "lat": 33.802807,
+    "lng": 132.879242
+  },
+  {
+    "name": "愛媛県立中央病院",
+    "address": "愛媛県松山市春日町83",
+    "core": false,
+    "regional": true,
+    "lat": 33.83284,
+    "lng": 132.765106
+  },
+  {
+    "name": "松山赤十字病院",
+    "address": "愛媛県松山市文京町1",
+    "core": false,
+    "regional": true,
+    "lat": 33.848438,
+    "lng": 132.773682
+  },
+  {
+    "name": "市立宇和島病院",
+    "address": "愛媛県宇和島市御殿町1-1",
+    "core": false,
+    "regional": true,
+    "lat": 33.216278,
+    "lng": 132.565262
+  },
+  {
+    "name": "高知大学医学部附属病院",
+    "address": "高知県南国市岡豊町小蓮",
+    "core": true,
+    "regional": false,
+    "lat": 33.59951,
+    "lng": 133.616989
+  },
+  {
+    "name": "高知医療センター",
+    "address": "高知県高知市池2125-1",
+    "core": false,
+    "regional": true,
+    "lat": 33.533272,
+    "lng": 133.585495
+  },
+  {
+    "name": "NHO高知病院",
+    "address": "高知県高知市朝倉甲2125-1",
+    "core": false,
+    "regional": true,
+    "lat": 33.540737,
+    "lng": 133.498322
+  },
+  {
+    "name": "幡多けんみん病院",
+    "address": "高知県宿毛市山奈町芳奈3-1",
+    "core": false,
+    "regional": true,
+    "lat": 32.965355,
+    "lng": 132.805847
+  },
+  {
+    "name": "九州大学病院",
+    "address": "福岡県福岡市東区馬出3丁目1-1",
+    "core": true,
+    "regional": false,
+    "lat": 33.609234,
+    "lng": 130.415726
+  },
+  {
+    "name": "福岡大学病院",
+    "address": "福岡県福岡市城南区七隈7丁目45-1",
+    "core": true,
+    "regional": false,
+    "lat": 33.546318,
+    "lng": 130.358902
+  },
+  {
+    "name": "福岡市立こども病院",
+    "address": "福岡県福岡市東区香椎照葉5丁目1-1",
+    "core": true,
+    "regional": false,
+    "lat": 33.662792,
+    "lng": 130.417313
+  },
+  {
+    "name": "NHO福岡病院",
+    "address": "福岡県福岡市南区屋形原4丁目39-1",
+    "core": false,
+    "regional": true,
+    "lat": 33.535946,
+    "lng": 130.408524
+  },
+  {
+    "name": "NHO福岡東医療センター",
+    "address": "福岡県古賀市千鳥1丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 33.740604,
+    "lng": 130.473541
+  },
+  {
+    "name": "福岡大学筑紫病院",
+    "address": "福岡県筑紫野市俗明院1丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 33.481838,
+    "lng": 130.531433
+  },
+  {
+    "name": "福岡徳洲会病院",
+    "address": "福岡県春日市須玖北4丁目5",
+    "core": false,
+    "regional": true,
+    "lat": 33.543419,
+    "lng": 130.447617
+  },
+  {
+    "name": "久留米大学病院",
+    "address": "福岡県久留米市旭町67",
+    "core": true,
+    "regional": false,
+    "lat": 33.328121,
+    "lng": 130.511475
+  },
+  {
+    "name": "聖マリア病院",
+    "address": "福岡県久留米市津福本町422",
+    "core": false,
+    "regional": true,
+    "lat": 33.304573,
+    "lng": 130.509384
+  },
+  {
+    "name": "高木病院",
+    "address": "福岡県大川市大字酒見842-5",
+    "core": false,
+    "regional": true,
+    "lat": 33.2155,
+    "lng": 130.391327
+  },
+  {
+    "name": "飯塚病院",
+    "address": "福岡県飯塚市芳雄町3-83",
+    "core": false,
+    "regional": true,
+    "lat": 33.642921,
+    "lng": 130.69162
+  },
+  {
+    "name": "産業医科大学病院",
+    "address": "福岡県北九州市八幡西区医生ヶ丘1-1",
+    "core": true,
+    "regional": false,
+    "lat": 33.876781,
+    "lng": 130.709549
+  },
+  {
+    "name": "NHO小倉医療センター",
+    "address": "福岡県北九州市小倉南区春日池1丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 33.789482,
+    "lng": 130.846207
+  },
+  {
+    "name": "北九州市立総合療育センター",
+    "address": "福岡県北九州市小倉南区春日池1丁目10-1",
+    "core": false,
+    "regional": true,
+    "lat": 33.789482,
+    "lng": 130.846207
+  },
+  {
+    "name": "北九州市立医療センター",
+    "address": "福岡県北九州市小倉北区馬借2丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 33.879921,
+    "lng": 130.879059
+  },
+  {
+    "name": "JCHO九州病院",
+    "address": "福岡県北九州市八幡西区岸の浦1丁目8-1",
+    "core": false,
+    "regional": true,
+    "lat": 33.857792,
+    "lng": 130.765549
+  },
+  {
+    "name": "北九州市立八幡病院",
+    "address": "福岡県北九州市八幡東区尾倉2丁目6-2",
+    "core": false,
+    "regional": true,
+    "lat": 33.864655,
+    "lng": 130.796036
+  },
+  {
+    "name": "佐賀大学医学部附属病院",
+    "address": "佐賀県佐賀市鍋島5丁目1-1",
+    "core": true,
+    "regional": false,
+    "lat": 33.284588,
+    "lng": 130.266861
+  },
+  {
+    "name": "佐賀県医療センター好生館",
+    "address": "佐賀県佐賀市嘉瀬町大字中原400",
+    "core": false,
+    "regional": true,
+    "lat": 33.2384,
+    "lng": 130.265854
+  },
+  {
+    "name": "NHO佐賀病院",
+    "address": "佐賀県佐賀市日の出1丁目20-1",
+    "core": false,
+    "regional": true,
+    "lat": 33.276108,
+    "lng": 130.294876
+  },
+  {
+    "name": "唐津赤十字病院",
+    "address": "佐賀県唐津市二タ子1丁目5-1",
+    "core": false,
+    "regional": true,
+    "lat": 33.457218,
+    "lng": 129.958282
+  },
+  {
+    "name": "NHO嬉野医療センター",
+    "address": "佐賀県嬉野市嬉野町大字下宿乙2436",
+    "core": false,
+    "regional": true,
+    "lat": 33.099792,
+    "lng": 129.973892
+  },
+  {
+    "name": "長崎大学病院",
+    "address": "長崎県長崎市坂本1丁目7-1",
+    "core": true,
+    "regional": false,
+    "lat": 32.768757,
+    "lng": 129.866791
+  },
+  {
+    "name": "長崎みなとメディカルセンター",
+    "address": "長崎県長崎市新地町6-39",
+    "core": false,
+    "regional": true,
+    "lat": 32.740009,
+    "lng": 129.87236
+  },
+  {
+    "name": "佐世保市総合医療センター",
+    "address": "長崎県佐世保市平瀬町9-3",
+    "core": false,
+    "regional": true,
+    "lat": 33.172565,
+    "lng": 129.715729
+  },
+  {
+    "name": "NHO長崎医療センター",
+    "address": "長崎県大村市久原2丁目1001-1",
+    "core": true,
+    "regional": false,
+    "lat": 32.895649,
+    "lng": 129.973129
+  },
+  {
+    "name": "熊本大学医学部附属病院",
+    "address": "熊本県熊本市中央区本荘1丁目1-1",
+    "core": true,
+    "regional": false,
+    "lat": 32.796139,
+    "lng": 130.711456
+  },
+  {
+    "name": "熊本赤十字病院",
+    "address": "熊本県熊本市東区長嶺南2丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 32.806034,
+    "lng": 130.761841
+  },
+  {
+    "name": "熊本地域医療センター",
+    "address": "熊本県熊本市中央区本荘5丁目16-10",
+    "core": false,
+    "regional": true,
+    "lat": 32.793686,
+    "lng": 130.708557
+  },
+  {
+    "name": "NHO別府医療センター",
+    "address": "大分県別府市大字内竈1473",
+    "core": false,
+    "regional": true,
+    "lat": 33.334042,
+    "lng": 131.479645
+  },
+  {
+    "name": "大分大学医学部附属病院",
+    "address": "大分県由布市挾間町医大ヶ丘1丁目1",
+    "core": true,
+    "regional": false,
+    "lat": 33.210209,
+    "lng": 131.534531
+  },
+  {
+    "name": "大分県立病院",
+    "address": "大分県大分市大字豊饒476",
+    "core": false,
+    "regional": true,
+    "lat": 33.209961,
+    "lng": 131.599747
+  },
+  {
+    "name": "アルメイダ病院",
+    "address": "大分県大分市大字宮崎1509-2",
+    "core": false,
+    "regional": true,
+    "lat": 33.193119,
+    "lng": 131.60907
+  },
+  {
+    "name": "大分こども病院",
+    "address": "大分県大分市広瀬町2丁目3-3",
+    "core": false,
+    "regional": true,
+    "lat": 33.215717,
+    "lng": 131.612061
+  },
+  {
+    "name": "中津市民病院",
+    "address": "大分県中津市大字下池永173",
+    "core": false,
+    "regional": true,
+    "lat": 33.589661,
+    "lng": 131.215393
+  },
+  {
+    "name": "宮崎大学医学部附属病院",
+    "address": "宮崎県宮崎市清武町木原5200",
+    "core": true,
+    "regional": false,
+    "lat": 31.840258,
+    "lng": 131.399185
+  },
+  {
+    "name": "宮崎県立宮崎病院",
+    "address": "宮崎県宮崎市北高松町5-30",
+    "core": false,
+    "regional": true,
+    "lat": 31.917767,
+    "lng": 131.417007
+  },
+  {
+    "name": "NHO都城医療センター",
+    "address": "宮崎県都城市祝吉町5033-1",
+    "core": false,
+    "regional": true,
+    "lat": 31.739182,
+    "lng": 131.085281
+  },
+  {
+    "name": "都城医師会病院",
+    "address": "宮崎県都城市太郎坊町1364-1",
+    "core": false,
+    "regional": true,
+    "lat": 31.783115,
+    "lng": 131.090378
+  },
+  {
+    "name": "宮崎県立延岡病院",
+    "address": "宮崎県延岡市新小路2丁目1-10",
+    "core": false,
+    "regional": true,
+    "lat": 32.570145,
+    "lng": 131.66629
+  },
+  {
+    "name": "宮崎県立日南病院",
+    "address": "宮崎県日南市木津志1丁目1-1",
+    "core": false,
+    "regional": true,
+    "lat": 31.590338,
+    "lng": 131.395233
+  },
+  {
+    "name": "鹿児島大学病院",
+    "address": "鹿児島県鹿児島市桜ヶ丘8丁目35-1",
+    "core": true,
+    "regional": false,
+    "lat": 31.549334,
+    "lng": 130.525635
+  },
+  {
+    "name": "鹿児島市立病院",
+    "address": "鹿児島県鹿児島市上荒田町37-1",
+    "core": false,
+    "regional": true,
+    "lat": 31.575636,
+    "lng": 130.542175
+  },
+  {
+    "name": "鹿児島生協病院",
+    "address": "鹿児島県鹿児島市谷山中央5丁目20-10",
+    "core": false,
+    "regional": true,
+    "lat": 31.517847,
+    "lng": 130.513733
+  },
+  {
+    "name": "鹿児島こども病院",
+    "address": "鹿児島県鹿児島市新吉野町11-1",
+    "core": false,
+    "regional": true,
+    "lat": 31.548258,
+    "lng": 130.54483
+  },
+  {
+    "name": "NHO鹿児島医療センター",
+    "address": "鹿児島県鹿児島市城山町8-1",
+    "core": false,
+    "regional": true,
+    "lat": 31.599043,
+    "lng": 130.556381
+  },
+  {
+    "name": "済生会川内病院",
+    "address": "鹿児島県薩摩川内市原田町1-1",
+    "core": false,
+    "regional": true,
+    "lat": 31.825312,
+    "lng": 130.307037
+  },
+  {
+    "name": "NHO南九州病院",
+    "address": "鹿児島県姶良市加治木町木田3899",
+    "core": false,
+    "regional": true,
+    "lat": 31.74608,
+    "lng": 130.653641
+  },
+  {
+    "name": "霧島市立医師会医療センター",
+    "address": "鹿児島県霧島市隼人町内山田1丁目3-1",
+    "core": false,
+    "regional": true,
+    "lat": 31.743837,
+    "lng": 130.739822
+  },
+  {
+    "name": "県民健康プラザ鹿屋医療センター",
+    "address": "鹿児島県鹿屋市札元1丁目8-1",
+    "core": false,
+    "regional": true,
+    "lat": 31.390871,
+    "lng": 130.868317
+  },
+  {
+    "name": "県立大島病院",
+    "address": "鹿児島県奄美市名瀬真名津町11-1",
+    "core": false,
+    "regional": true,
+    "lat": 28.362318,
+    "lng": 129.496475
+  },
+  {
+    "name": "沖縄県立北部病院",
+    "address": "沖縄県名護市大中2丁目12-3",
+    "core": false,
+    "regional": true,
+    "lat": 26.593466,
+    "lng": 127.986893
+  },
+  {
+    "name": "沖縄県立中部病院",
+    "address": "沖縄県うるま市字宮里281",
+    "core": false,
+    "regional": true,
+    "lat": 26.35405,
+    "lng": 127.835503
+  },
+  {
+    "name": "琉球大学医学部附属病院",
+    "address": "沖縄県中頭郡西原町字上原207",
+    "core": true,
+    "regional": false,
+    "lat": 26.242254,
+    "lng": 127.758636
+  },
+  {
+    "name": "沖縄県立南部医療センター・こども医療センター",
+    "address": "沖縄県南風原町字新川118-1",
+    "core": true,
+    "regional": false,
+    "lat": 26.205864,
+    "lng": 127.72374
+  },
+  {
+    "name": "那覇市立病院",
+    "address": "沖縄県那覇市古島2丁目31-1",
+    "core": false,
+    "regional": true,
+    "lat": 26.226742,
+    "lng": 127.709892
+  },
+  {
+    "name": "沖縄県立宮古病院",
+    "address": "沖縄県宮古島市平良字下里427-1",
+    "core": false,
+    "regional": true,
+    "lat": 24.800188,
+    "lng": 125.276047
+  },
+  {
+    "name": "沖縄県立八重山病院",
+    "address": "沖縄県石垣市字真栄里584-1",
+    "core": false,
+    "regional": true,
+    "lat": 24.383537,
+    "lng": 124.198051
+  }
+]
