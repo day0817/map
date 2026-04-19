@@ -1,18 +1,22 @@
 :root {
-    --bg-color: #f8fafc; /* 繝ｩ繧､繝医ユ繝ｼ繝槭・閭梧勹濶ｲ */
+    --bg-color: #f8fafc;
+    /* 繝ｩ繧､繝医ユ繝ｼ繝槭・閭梧勹濶ｲ */
     --text-color: #334155;
     --border-color: #e2e8f0;
-    
+
     /* 繝槭ャ繝励・濶ｲ螳夂ｾｩ */
-    --map-stroke: #cbd5e1;  /* 蟶ょ玄逕ｺ譚代・蠅・阜邱夊牡 */
+    --map-stroke: #cbd5e1;
+    /* 蟶ょ玄逕ｺ譚代・蠅・阜邱夊牡 */
     --map-stroke-width: 0.2px;
     --map-hover-stroke: #475569;
-    
+
     /* 謖・ｮ壹′縺ｪ縺・ョ繝輔か繝ｫ繝医・蝨ｰ蝓溘・濶ｲ・郁埋縺・が繝ｬ繝ｳ繧ｸ・・*/
-    --color-light-orange: #ffedd5; /* 繧医ｊ阮・＞繧ｪ繝ｬ繝ｳ繧ｸ (Tailwind縺ｮorange-100逶ｸ蠖・ */
-    
+    --color-light-orange: #ffedd5;
+    /* 繧医ｊ阮・＞繧ｪ繝ｬ繝ｳ繧ｸ (Tailwind縺ｮorange-100逶ｸ蠖・ */
+
     /* 謖・ｮ壹＆繧後◆蝨ｰ蝓溘・濶ｲ・域ｿ・＞繧ｪ繝ｬ繝ｳ繧ｸ・・*/
-    --color-dark-orange: #c2410c;  /* 隕冶ｪ肴ｧ縺ｮ鬮倥＞豼・＞繧ｪ繝ｬ繝ｳ繧ｸ */
+    --color-dark-orange: #e37610ff;
+    /* 隕冶ｪ肴ｧ縺ｮ鬮倥＞豼・＞繧ｪ繝ｬ繝ｳ繧ｸ */
 
     /* 繝・・繧ｿ谺謳肴凾縺ｪ縺ｩ */
     --color-default: #f1f5f9;
@@ -96,15 +100,18 @@ main {
 .prefecture-border {
     fill: none;
     pointer-events: none;
-    vector-effect: non-scaling-stroke; /* 繧ｺ繝ｼ繝縺励※繧らｷ壹・螟ｪ縺輔ｒ荳螳壹↓菫昴▽險ｭ螳・*/
+    vector-effect: non-scaling-stroke;
+    /* 繧ｺ繝ｼ繝縺励※繧らｷ壹・螟ｪ縺輔ｒ荳螳壹↓菫昴▽險ｭ螳・*/
 }
 
 /* 霑ｽ蜉・壽僑螟ｧ譎ゅ↓陦ｨ遉ｺ縺吶ｋ蟶ょ玄逕ｺ譚大錐縺ｮ繝ｩ繝吶Ν */
 .municipality-label {
     font-family: 'Noto Sans JP', sans-serif;
     text-anchor: middle;
-    pointer-events: none; /* 繝槭え繧ｹ繧､繝吶Φ繝医ｒ雋ｫ騾壹＆縺帙ｋ */
-    visibility: hidden; /* 繝・ヵ繧ｩ繝ｫ繝医・髱櫁｡ｨ遉ｺ */
+    pointer-events: none;
+    /* 繝槭え繧ｹ繧､繝吶Φ繝医ｒ雋ｫ騾壹＆縺帙ｋ */
+    visibility: hidden;
+    /* 繝・ヵ繧ｩ繝ｫ繝医・髱櫁｡ｨ遉ｺ */
     font-weight: 500;
 }
 
@@ -115,7 +122,7 @@ main {
     background: #fff;
     padding: 1rem 1.5rem;
     border-radius: 8px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
     align-items: center;
 }
 
@@ -139,9 +146,18 @@ main {
     border-radius: 4px;
 }
 
-.color-box.highlight-dark { background-color: var(--color-dark-orange); }
-.color-box.highlight-light { background-color: var(--color-light-orange); }
-.color-box.default { background-color: var(--color-default); border: 1px solid var(--border-color); }
+.color-box.highlight-dark {
+    background-color: var(--color-dark-orange);
+}
+
+.color-box.highlight-light {
+    background-color: var(--color-light-orange);
+}
+
+.color-box.default {
+    background-color: var(--color-default);
+    border: 1px solid var(--border-color);
+}
 
 /* 病院マーカー用スタイル */
 .circle-legend {
@@ -149,7 +165,7 @@ main {
     height: 14px;
     border-radius: 50%;
     border: 1px solid #fff;
-    box-shadow: 0 1px 2px rgba(0,0,0,0.4);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
     margin-right: 6px;
 }
 
@@ -166,6 +182,7 @@ main {
     z-index: 2000;
     white-space: nowrap;
 }
+
 .hospital-tooltip strong {
     display: block;
     font-size: 14px;

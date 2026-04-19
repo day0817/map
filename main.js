@@ -6,7 +6,7 @@
 // ▼ 地図の各種設定（ここを変更するだけで全体に反映されます）
 const MAP_CONFIG = {
     zoomLabelThreshold: 9,                 // 市区町村名を表示し始めるズームレベル
-    labelFontSize: 9,                      // 市区町村名の文字サイズ (px)
+    labelFontSize: 8,                      // 市区町村名の文字サイズ (px)
     labelColor: "#909090ff",                  // 市区町村名の文字色（濃いグレー）
     mapStrokeColor: "#49494938",              // 市区町村の境界線の色
     mapStrokeWidth: 0.05,                   // 市区町村の境界線の太さ（もっと細く）
@@ -45,7 +45,7 @@ const zoom = d3.zoom()
             .style("visibility", showLabels ? "visible" : "hidden")
             // 画面上の見た目が指定サイズに保たれるように調整
             .style("font-size", `${MAP_CONFIG.labelFontSize / k}px`);
-        
+
         // ズーム時にマーカーの見た目の大きさを一定に保つ補正
         svg.selectAll(".marker-layer circle")
             .attr("r", MAP_CONFIG.hospitalMarkerRadius / k)
@@ -143,7 +143,7 @@ Promise.all([
         .append("circle")
         .attr("cx", d => projection([d.lng, d.lat])[0])
         .attr("cy", d => projection([d.lng, d.lat])[1])
-        .attr("r", MAP_CONFIG.hospitalMarkerRadius) 
+        .attr("r", MAP_CONFIG.hospitalMarkerRadius)
         .style("fill", d => d.core ? MAP_CONFIG.hospitalCoreColor : MAP_CONFIG.hospitalRegionalColor)
         .style("stroke", "#ffffff")
         .style("stroke-width", 0.8)
@@ -156,12 +156,12 @@ Promise.all([
                 <span style="color: #666; font-size: 11px;">${d.address}</span><br>
                 <span class="hospital-type" style="color: ${colorStr};">${typeStr}</span>
             `)
-            .style("left", (event.pageX + 10) + "px")
-            .style("top", (event.pageY - 28) + "px");
+                .style("left", (event.pageX + 10) + "px")
+                .style("top", (event.pageY - 28) + "px");
         })
         .on("mousemove", (event) => {
             tooltip.style("left", (event.pageX + 10) + "px")
-                   .style("top", (event.pageY - 28) + "px");
+                .style("top", (event.pageY - 28) + "px");
         })
         .on("mouseout", () => {
             tooltip.transition().duration(200).style("opacity", 0);
