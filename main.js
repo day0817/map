@@ -61,23 +61,12 @@ const projection = d3.geoMercator()
 
 const path = d3.geoPath().projection(projection);
 
-const TOPOJSON_URL = "municipality.json";  // ローカルにDL済み（元: smartnews-smri/japan-topography）
-const TARGET_CODES_URL = "target_codes.txt";
-const HOSPITALS_URL = "hospitals.txt";
+// データは data.js でグローバル変数として定義されています
 
-// データ読み込みと描画
-Promise.all([
-    d3.json(TOPOJSON_URL),
-    d3.text(TARGET_CODES_URL),
-    d3.json(HOSPITALS_URL)
-]).then(([topology, targetCodesText, hospitals]) => {
-    // 外部のテキストデータから抽出（空行・コメント除外。空白区切りで最初の要素＝コードを抽出）
-    const targetMunicipalities = new Set(
-        targetCodesText.split(/\r?\n/)
-            .map(line => line.trim())
-            .filter(line => line.length > 0 && !line.startsWith("#"))
-            .map(line => line.split(/\s+/)[0])
-    );
+try {
+    const topology = MUNICIPALITY_DATA;
+    const targetMunicipalities = new Set(TARGET_CODES_DATA);
+    const hospitals = HOSPITALS_DATA;
     // TopoJSONをGeoJSONのFeatureCollectionに変換
     const objectKey = Object.keys(topology.objects)[0];
     const features = topojson.feature(topology, topology.objects[objectKey]).features;
@@ -167,8 +156,8 @@ Promise.all([
             tooltip.transition().duration(200).style("opacity", 0);
         });
 
-}).catch(error => {
-    console.error("データの読み込みに失敗しました:", error);
-    d3.select("#loading").text("地図データの読み込みに失敗しました。");
-});
+} catch (error) {
+    console.error("データの描画に失敗しました:", error);
+    d3.select("#loading").text("地図データの描画に失敗しました。");
+}
 
